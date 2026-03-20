@@ -34,9 +34,7 @@ def start(update: Update, context: CallbackContext) -> None:
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
     update.message.reply_text(
-        "FANCYBOT
-Non-custodial automated trading.
-Your keys. Your funds. Our edge.",
+        """FANCYBOT\nNon-custodial automated trading.\nYour keys. Your funds. Our edge.""",
         reply_markup=reply_markup
     )
 
@@ -47,19 +45,13 @@ def status(update: Update, context: CallbackContext) -> None:
     sim = sim_running(uid)
     live = live_running(uid)
     msg = (
-        f"SIM:  {'RUNNING' if sim else 'STOPPED'}
-"
-        f"LIVE: {'RUNNING' if live else 'STOPPED'}
-"
-        f"Mode: {cfg.mode}
-"
-        f"Score gate: {cfg.signal.score_gate}
-"
-        f"Max positions: {cfg.risk.max_positions}
-"
-        f"Leverage: {cfg.risk.leverage}x
-"
-        f"Trade size: ${cfg.risk.trade_size_usdt}"
+        f"""SIM:  {'RUNNING' if sim else 'STOPPED'}\n"""
+        f"""LIVE: {'RUNNING' if live else 'STOPPED'}\n"""
+        f"""Mode: {cfg.mode}\n"""
+        f"""Score gate: {cfg.signal.score_gate}\n"""
+        f"""Max positions: {cfg.risk.max_positions}\n"""
+        f"""Leverage: {cfg.risk.leverage}x\n"""
+        f"""Trade size: ${cfg.risk.trade_size_usdt}"""
     )
     update.message.reply_text(msg)
 
@@ -95,10 +87,9 @@ def button_handler(update: Update, context: CallbackContext) -> None:
         sim = sim_running(uid)
         live = live_running(uid)
         query.edit_message_text(
-            f"SIM: {'ON' if sim else 'OFF'} | LIVE: {'ON' if live else 'OFF'}
-"
-            f"Gate: {cfg.signal.score_gate} | Lev: {cfg.risk.leverage}x | "
-            f"Size: ${cfg.risk.trade_size_usdt}"
+            f"""SIM: {'ON' if sim else 'OFF'} | LIVE: {'ON' if live else 'OFF'}\n"""
+            f"""Gate: {cfg.signal.score_gate} | Lev: {cfg.risk.leverage}x | """
+            f"""Size: ${cfg.risk.trade_size_usdt}"""
         )
 
 
