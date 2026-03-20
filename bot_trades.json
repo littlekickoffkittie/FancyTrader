@@ -1,0 +1,2360 @@
+[
+  {
+    "timestamp": "2026-03-04T19:36:53.437936",
+    "symbol": "POWERUSDT",
+    "direction": "LONG",
+    "price": 0.16088,
+    "qty": "9323.71954251616",
+    "score": 139,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T19:37:04.448774",
+    "symbol": "KAITOUSDT",
+    "direction": "LONG",
+    "price": 0.3548,
+    "qty": "4227.733934611048",
+    "score": 101,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T19:37:05.081947",
+    "symbol": "ALGOUSDT",
+    "direction": "LONG",
+    "price": 0.0882,
+    "qty": "17006.802721088436",
+    "score": 111,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T19:55:58.945626",
+    "symbol": "u1000RATSUSDT",
+    "direction": "SHORT",
+    "price": 0.05205,
+    "qty": "3458",
+    "notional": 179.99,
+    "margin_usdt": 9.0,
+    "leverage": 20,
+    "trail_pct": 0.04,
+    "low_liq_mode": false,
+    "htf_aligned": false,
+    "score": 139,
+    "signals": [
+      "Near High-Vol Resistance Node (-3.73% below)",
+      "RSI 56.3 (rollover zone)",
+      "Price above/at BB upper band (111%) \u2014 extreme overbought",
+      "Price 2.1% above EMA21",
+      "+12.8% pump (overbought fade)"
+    ],
+    "entry_order_id": "7c2beb3c-2175-4561-899c-321c33f61618",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-04T20:14:03.823604",
+    "symbol": "u1000RATSUSDT",
+    "direction": "SHORT",
+    "price": 0.052046784,
+    "qty": "3458.0",
+    "score": 139,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 5.0364,
+    "hold_time_seconds": 1084
+  },
+  {
+    "timestamp": "2026-03-04T20:16:27.348726",
+    "symbol": "MOODENGUSDT",
+    "direction": "LONG",
+    "price": 0.05143,
+    "qty": "3499",
+    "notional": 179.95,
+    "margin_usdt": 9.0,
+    "leverage": 20,
+    "trail_pct": 0.04,
+    "low_liq_mode": false,
+    "htf_aligned": false,
+    "score": 144,
+    "signals": [
+      "EMA Curling Up (Slope \u0394 +0.015) \u2014 Momentum building",
+      "Near High-Vol Support Node (0.29% above)",
+      "RSI 38.3 (oversold recovery zone) \u2713 turning up",
+      "Near BB lower band (17%) \u2014 oversold",
+      "Price 1.1% below EMA21"
+    ],
+    "entry_order_id": "3ae782c9-0d48-4674-81a2-8701976554f9",
+    "trail_order_id": "30a5c4b5-51f1-4b49-88fb-7a99e45cb9b6",
+    "trail_ok": true,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-04T22:09:33.616411",
+    "symbol": "AIXBTUSDT",
+    "direction": "SHORT",
+    "price": 0.03028,
+    "qty": "5944.5178335535",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T22:11:54.753752",
+    "symbol": "ETHFIUSDT",
+    "direction": "SHORT",
+    "price": 0.5469,
+    "qty": "329.1278113000548",
+    "score": 124,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T22:14:57.558049",
+    "symbol": "AIXBTUSDT",
+    "direction": "SHORT",
+    "price": 0.0304,
+    "qty": "5921.0526315789475",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T22:30:39.294841",
+    "symbol": "BTCUSDT",
+    "direction": "SHORT",
+    "price": 72472.6,
+    "qty": "0.020697477391455527",
+    "score": 143,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T22:33:39.595963",
+    "symbol": "BTCUSDT",
+    "direction": "SHORT",
+    "price": 72421.6,
+    "qty": "0.02071205275774078",
+    "score": 143,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-04T22:34:17.309673",
+    "symbol": "BTCUSDT",
+    "direction": "SHORT",
+    "price": 72407.0,
+    "qty": "0.02071622909387214",
+    "score": 143,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T00:02:27.052334",
+    "symbol": "BTCUSDT",
+    "direction": "SHORT",
+    "price": 72842.5,
+    "qty": "0.020592373957511068",
+    "score": 143,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T00:02:27.749513",
+    "symbol": "LINKUSDT",
+    "direction": "SHORT",
+    "price": 9.351,
+    "qty": "160.41065126724413",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T00:17:57.841672",
+    "symbol": "MOODENGUSDT",
+    "direction": "LONG",
+    "price": 0.05144,
+    "qty": "3499.0",
+    "score": 144,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.6648,
+    "hold_time_seconds": 14490
+  },
+  {
+    "timestamp": "2026-03-05T00:20:44.818867",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.316,
+    "qty": "227",
+    "notional": 298.73,
+    "margin_usdt": 10.0,
+    "leverage": 30,
+    "trail_pct": 0.03,
+    "low_liq_mode": false,
+    "htf_aligned": true,
+    "score": 133,
+    "signals": [
+      "Near High-Vol Resistance Node (-0.42% below)",
+      "HTF Alignment (1H RSI 63.9) \u2014 overbought territory",
+      "RSI 66.0 (rollover zone)",
+      "Price above/at BB upper band (96%) \u2014 extreme overbought",
+      "Price 3.7% above EMA21 (mean-reversion opportunity)"
+    ],
+    "entry_order_id": "e8ee454a-2fbe-482e-946a-6be96496050d",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T00:34:32.608233",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3114,
+    "qty": "227.0",
+    "score": 133,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.7945,
+    "hold_time_seconds": 827
+  },
+  {
+    "timestamp": "2026-03-05T00:35:44.410056",
+    "symbol": "ALLOUSDT",
+    "direction": "SHORT",
+    "price": 0.1186,
+    "qty": "421.58",
+    "notional": 50.0,
+    "margin_usdt": 5.0,
+    "leverage": 10,
+    "trail_pct": 0.012,
+    "low_liq_mode": true,
+    "htf_aligned": false,
+    "score": 147,
+    "signals": [
+      "EMA Curling Down (Slope \u0394 -0.111) \u2014 Momentum loss",
+      "Low Liquidity (Spread 0.17%)",
+      "RSI 64.5 (rollover zone) \u2713 rolling over",
+      "Price above/at BB upper band (91%) \u2014 extreme overbought",
+      "Price 6.8% above EMA21 (mean-reversion opportunity)"
+    ],
+    "entry_order_id": "d914ff5f-a3d6-4de6-b89e-a9844e21dd1f",
+    "trail_order_id": "9942efd6-9ab6-40c3-80f2-04086a51217f",
+    "trail_ok": true,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T00:47:59.768593",
+    "symbol": "ALLOUSDT",
+    "direction": "SHORT",
+    "price": 0.1185,
+    "qty": "421.58",
+    "score": 147,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.1987,
+    "hold_time_seconds": 735
+  },
+  {
+    "timestamp": "2026-03-05T00:51:17.607007",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3096,
+    "qty": "229",
+    "notional": 299.9,
+    "margin_usdt": 10.0,
+    "leverage": 30,
+    "trail_pct": 0.03,
+    "low_liq_mode": false,
+    "htf_aligned": true,
+    "score": 138,
+    "signals": [
+      "Near High-Vol Resistance Node (-0.90% below)",
+      "High Liquidity (Spread 0.01%)",
+      "HTF Alignment (1H RSI 63.9) \u2014 overbought territory",
+      "RSI 66.0 (rollover zone)",
+      "Price above/at BB upper band (91%) \u2014 extreme overbought"
+    ],
+    "entry_order_id": "f6884fc9-a26c-4e48-82a1-bac2550c85b3",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T00:54:25.992791",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3097,
+    "qty": "229.0",
+    "score": 138,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.4091,
+    "hold_time_seconds": 188
+  },
+  {
+    "timestamp": "2026-03-05T00:55:17.598848",
+    "symbol": "AIXBTUSDT",
+    "direction": "SHORT",
+    "price": 0.03205,
+    "qty": "9360",
+    "notional": 299.99,
+    "margin_usdt": 10.0,
+    "leverage": 30,
+    "trail_pct": 0.03,
+    "low_liq_mode": false,
+    "htf_aligned": true,
+    "score": 134,
+    "signals": [
+      "High Liquidity (Spread 0.03%)",
+      "HTF Alignment (1H RSI 67.2) \u2014 deeply overbought",
+      "RSI 76.4 (extremely overbought \u2014 high-risk/high-reward)",
+      "Price above/at BB upper band (94%) \u2014 extreme overbought",
+      "Price 19.8% above EMA21 (mean-reversion opportunity)"
+    ],
+    "entry_order_id": "657c30f3-8a10-4145-87ef-7af9962444b2",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T01:16:21.098432",
+    "symbol": "AIXBTUSDT",
+    "direction": "SHORT",
+    "price": 0.03196941,
+    "qty": "9360.0",
+    "score": 134,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.4705,
+    "hold_time_seconds": 1263
+  },
+  {
+    "timestamp": "2026-03-05T01:17:19.012661",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3167,
+    "qty": "227",
+    "notional": 298.89,
+    "margin_usdt": 10.0,
+    "leverage": 30,
+    "trail_pct": 0.03,
+    "low_liq_mode": false,
+    "htf_aligned": true,
+    "score": 138,
+    "signals": [
+      "Near High-Vol Resistance Node (-0.36% below)",
+      "High Liquidity (Spread 0.04%)",
+      "HTF Alignment (1H RSI 59.9) \u2014 overbought territory",
+      "RSI 66.0 (rollover zone)",
+      "Price above/at BB upper band (96%) \u2014 extreme overbought"
+    ],
+    "entry_order_id": "91b82133-ac90-4eef-8cd9-229345a56dcd",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T01:18:23.883345",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3147,
+    "qty": "227.0",
+    "score": 138,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.2245,
+    "hold_time_seconds": 64
+  },
+  {
+    "timestamp": "2026-03-05T01:21:26.568825",
+    "symbol": "ALLOUSDT",
+    "direction": "SHORT",
+    "price": 0.1182,
+    "qty": "423.01",
+    "notional": 50.0,
+    "margin_usdt": 5.0,
+    "leverage": 10,
+    "trail_pct": 0.012,
+    "low_liq_mode": true,
+    "htf_aligned": true,
+    "score": 147,
+    "signals": [
+      "EMA Curling Down (Slope \u0394 -0.111) \u2014 Momentum loss",
+      "Low Liquidity (Spread 0.17%)",
+      "HTF Alignment (1H RSI 56.5) \u2014 overbought territory",
+      "RSI 64.5 (rollover zone) \u2713 rolling over",
+      "Near BB upper band (89%) \u2014 overbought"
+    ],
+    "entry_order_id": "36324a78-6d8d-4ac1-a2a6-006d1956a34b",
+    "trail_order_id": "563e43e1-6514-4cbd-9c98-0410fab19e5b",
+    "trail_ok": true,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T02:40:17.336364",
+    "symbol": "ALLOUSDT",
+    "direction": "SHORT",
+    "price": 0.118262325,
+    "qty": "1122.8",
+    "score": 147,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 1.8665,
+    "hold_time_seconds": 4730
+  },
+  {
+    "timestamp": "2026-03-05T02:42:19.033623",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03427,
+    "qty": "1459.0",
+    "notional": 50.0,
+    "margin_usdt": 5.0,
+    "leverage": 10,
+    "trail_pct": 0.012,
+    "low_liq_mode": true,
+    "htf_aligned": true,
+    "score": 145,
+    "signals": [
+      "EMA Curling Down (Slope \u0394 -0.029) \u2014 Momentum loss",
+      "Low Liquidity (Spread 0.47%)",
+      "HTF Alignment (1H RSI 70.4) \u2014 deeply overbought",
+      "RSI 66.9 (rollover zone)",
+      "Price above/at BB upper band (145%) \u2014 extreme overbought"
+    ],
+    "entry_order_id": "b14f5980-a83e-46a3-9d64-dbd362e28853",
+    "trail_order_id": "6f8a4e89-a277-4bc7-ad66-95ba207b5052",
+    "trail_ok": true,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T02:59:51.274296",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.034058047,
+    "qty": "1459.0",
+    "score": 145,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 1.982,
+    "hold_time_seconds": 1052
+  },
+  {
+    "timestamp": "2026-03-05T03:03:27.162097",
+    "symbol": "GUNUSDT",
+    "direction": "LONG",
+    "price": 0.01997,
+    "qty": "15022",
+    "notional": 299.99,
+    "margin_usdt": 10.0,
+    "leverage": 30,
+    "trail_pct": 0.03,
+    "low_liq_mode": false,
+    "htf_aligned": false,
+    "score": 144,
+    "signals": [
+      "EMA Curling Up (Slope \u0394 +0.160) \u2014 Momentum building",
+      "Bullish Divergence (Price LL vs RSI HL) \u2014 sellers exhausted",
+      "RSI 29.3 (oversold recovery zone) \u2713 turning up",
+      "Near BB lower band (21%) \u2014 oversold",
+      "Price 12.8% below EMA21 (mean-reversion opportunity)"
+    ],
+    "entry_order_id": "ef0c4c67-4812-4248-8d54-7dd2cf6a00e8",
+    "trail_order_id": null,
+    "trail_ok": false,
+    "dry_run": false,
+    "status": "entered",
+    "pnl": 0
+  },
+  {
+    "timestamp": "2026-03-05T03:06:20.551177",
+    "symbol": "GUNUSDT",
+    "direction": "LONG",
+    "price": 0.01996,
+    "qty": "15022.0",
+    "score": 144,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -3.1825,
+    "hold_time_seconds": 173
+  },
+  {
+    "timestamp": "2026-03-05T05:10:35.572669",
+    "symbol": "WIFUSDT",
+    "direction": "SHORT",
+    "price": 0.2175,
+    "qty": "160.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.137,
+    "hold_time_seconds": 1060
+  },
+  {
+    "timestamp": "2026-03-05T05:10:36.881203",
+    "symbol": "GIGGLEUSDT",
+    "direction": "LONG",
+    "price": 29.32,
+    "qty": "1.173",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.137,
+    "hold_time_seconds": 1061
+  },
+  {
+    "timestamp": "2026-03-05T05:12:14.191534",
+    "symbol": "BANANAS31USDT",
+    "direction": "Unknown",
+    "price": 0.005589,
+    "qty": "12608.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.5091,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T05:14:55.587489",
+    "symbol": "BANANAS31USDT",
+    "direction": "LONG",
+    "price": 0.005625,
+    "qty": "11216.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.5086,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T05:18:06.868324",
+    "symbol": "BANANAS31USDT",
+    "direction": "Unknown",
+    "price": 0.00558,
+    "qty": "10385.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.6407,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T05:19:12.251780",
+    "symbol": "POWERUSDT",
+    "direction": "LONG",
+    "price": 0.13747,
+    "qty": "505.44",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.4256,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T06:34:11.587945",
+    "symbol": "CYSUSDT",
+    "direction": "Unknown",
+    "price": 0.445428378,
+    "qty": "261.89",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -3.705,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T06:56:00.428288",
+    "symbol": "POWERUSDT",
+    "direction": "LONG",
+    "price": 0.13676,
+    "qty": "340.87",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.9455,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T06:56:01.863263",
+    "symbol": "ASTERUSDT",
+    "direction": "Unknown",
+    "price": 0.7582,
+    "qty": "60.68",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.9455,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T07:27:29.028977",
+    "symbol": "BANANAS31USDT",
+    "direction": "Unknown",
+    "price": 0.005596,
+    "qty": "9982.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.9453,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T07:30:47.848539",
+    "symbol": "ROBOUSDT",
+    "direction": "LONG",
+    "price": 0.04303,
+    "qty": "1309.71",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 1.1096,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T07:33:27.772607",
+    "symbol": "HUMAUSDT",
+    "direction": "Unknown",
+    "price": 0.01589,
+    "qty": "4352.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.6076,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T08:29:33.126390",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.365,
+    "qty": "19.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.57,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T08:31:41.555838",
+    "symbol": "SUIUSDT",
+    "direction": "Unknown",
+    "price": 0.9753,
+    "qty": "64.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.7246,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T09:01:01.870403",
+    "symbol": "MONUSDT",
+    "direction": "Unknown",
+    "price": 0.02281,
+    "qty": "2820.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.3787,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T09:01:03.199931",
+    "symbol": "LTCUSDT",
+    "direction": "LONG",
+    "price": 55.57,
+    "qty": "1.14",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 0.3787,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T09:05:17.759364",
+    "symbol": "HUMAUSDT",
+    "direction": "Unknown",
+    "price": 0.01657,
+    "qty": "7384.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.5167,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T09:19:47.224582",
+    "symbol": "PTUSDT",
+    "direction": "LONG",
+    "price": 0.495701414,
+    "qty": "229.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -0.1829,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T09:53:04.788182",
+    "symbol": "u1000RATSUSDT",
+    "direction": "SHORT",
+    "price": 0.05042,
+    "qty": "4784.0",
+    "score": 139,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 1.1956,
+    "hold_time_seconds": 50225
+  },
+  {
+    "timestamp": "2026-03-05T10:48:20.048455",
+    "symbol": "HUMAUSDT",
+    "direction": "Unknown",
+    "price": 0.01789,
+    "qty": "14675.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 1.3109,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T11:10:42.944213",
+    "symbol": "MONUSDT",
+    "direction": "LONG",
+    "price": 0.0221,
+    "qty": "12456.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -1.8294,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T11:18:38.941643",
+    "symbol": "NEARUSDT",
+    "direction": "LONG",
+    "price": 1.258,
+    "qty": "194.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": 3.5374,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T11:37:07.921242",
+    "symbol": "HUMAUSDT",
+    "direction": "Unknown",
+    "price": 0.01792,
+    "qty": "15875.0",
+    "score": 0,
+    "status": "closed",
+    "reason": "exchange_stop",
+    "pnl": -15.8982,
+    "hold_time_seconds": 0
+  },
+  {
+    "timestamp": "2026-03-05T12:11:41.393481",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01837,
+    "qty": "16330.97441480675",
+    "score": 140,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:23:33.874594",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03395,
+    "qty": "5891.016200294551",
+    "score": 150,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:23:47.581374",
+    "symbol": "APTUSDT",
+    "direction": "LONG",
+    "price": 0.976,
+    "qty": "204.91803278688525",
+    "score": 123,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:23:48.098808",
+    "symbol": "INJUSDT",
+    "direction": "LONG",
+    "price": 3.011,
+    "qty": "66.42311524410495",
+    "score": 117,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:29:30.931923",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03366,
+    "qty": "5941.770647653",
+    "score": 140,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:29:46.704642",
+    "symbol": "INJUSDT",
+    "direction": "LONG",
+    "price": 3.007,
+    "qty": "66.51147322913202",
+    "score": 122,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:29:47.311474",
+    "symbol": "ARCUSDT",
+    "direction": "LONG",
+    "price": 0.03635,
+    "qty": "5502.063273727648",
+    "score": 122,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:38:44.671474",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03431,
+    "qty": "5829.204313611192",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:39:01.008704",
+    "symbol": "AZTECUSDT",
+    "direction": "LONG",
+    "price": 0.02125,
+    "qty": "9411.764705882353",
+    "score": 124,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:39:01.616218",
+    "symbol": "SAHARAUSDT",
+    "direction": "LONG",
+    "price": 0.02622,
+    "qty": "7627.765064836003",
+    "score": 116,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:44:34.545673",
+    "symbol": "NEARUSDT",
+    "direction": "LONG",
+    "price": 1.256,
+    "qty": "159.23566878980893",
+    "score": 112,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:48:41.473603",
+    "symbol": "u1000BONKUSDT",
+    "direction": "LONG",
+    "price": 0.005989,
+    "qty": "33394.556687259974",
+    "score": 143,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:54:27.464005",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.05291,
+    "qty": "28350.02835002835",
+    "score": 145,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:54:27.399152",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3393,
+    "qty": "1119.9880534607632",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:55:56.653516",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3346,
+    "qty": "1123.9322643488686",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T12:56:38.996670",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.05291,
+    "qty": "28350.02835002835",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T13:04:28.073704",
+    "symbol": "CYSUSDT",
+    "direction": "SHORT",
+    "price": 0.3933,
+    "qty": "3813.8825324180016",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T13:15:50.622848",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.5079,
+    "qty": "994.7609257908349",
+    "score": 134,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T13:16:00.414828",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.05168,
+    "qty": "29024.767801857586",
+    "score": 161,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T13:32:59.927917",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.345,
+    "qty": "1115.2416356877325",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T13:33:00.331860",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.0519,
+    "qty": "28901.73410404624",
+    "score": 145,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:01:30.873410",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01758,
+    "qty": "85324.23208191126",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:23:53.800545",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03374,
+    "qty": "44457.617071724955",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:24:07.952704",
+    "symbol": "HOLOUSDT",
+    "direction": "SHORT",
+    "price": 0.0669,
+    "qty": "22421.52466367713",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:30:50.821836",
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "price": 0.04981,
+    "qty": "30114.43485243927",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:31:32.839095",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.0172,
+    "qty": "87209.30232558139",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:47:31.778238",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.05007,
+    "qty": "29958.058717795084",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:53:10.545906",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.2939,
+    "qty": "5103.776794828173",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T15:54:36.563837",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.231,
+    "qty": "464.25255338904367",
+    "score": 142,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T16:01:31.135308",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3492,
+    "qty": "1111.7699377408835",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T16:20:04.780872",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03363,
+    "qty": "44603.033006244426",
+    "score": 138,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T16:20:12.523885",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3467,
+    "qty": "1113.8338159946536",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T16:20:13.147052",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.05057,
+    "qty": "29661.854854656915",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T16:28:45.588106",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.2968,
+    "qty": "5053.908355795148",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:14:34.351863",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03331,
+    "qty": "45031.52206544581",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:16:33.810563",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3495,
+    "qty": "1111.5227862171175",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:20:06.194398",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.297,
+    "qty": "5050.50505050505",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:50:37.189690",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03309,
+    "qty": "45330.915684496824",
+    "score": 135,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:50:37.304363",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.295,
+    "qty": "4932.203389830509",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:58:00.188704",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2652,
+    "qty": "5656.108597285068",
+    "score": 138,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T17:58:02.435261",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.295,
+    "qty": "5084.745762711865",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:00:10.637220",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3482,
+    "qty": "1045.838896306186",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:21:00.585264",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03445,
+    "qty": "43541.36429608127",
+    "score": 164,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:21:00.893762",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3529,
+    "qty": "1042.2056323453323",
+    "score": 139,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:21:00.878652",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01688,
+    "qty": "88862.55924170617",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:22:40.263197",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01694,
+    "qty": "88547.8158205431",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:22:40.507239",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2641,
+    "qty": "5679.666792881484",
+    "score": 138,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:22:40.556563",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03445,
+    "qty": "40928.882438316396",
+    "score": 164,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:35:10.691118",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3499,
+    "qty": "1111.1934217349433",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:35:10.587957",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03425,
+    "qty": "43795.620437956204",
+    "score": 156,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:35:10.742333",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2638,
+    "qty": "5344.958301743745",
+    "score": 138,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:45:05.365046",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01666,
+    "qty": "90036.0144057623",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:45:05.530333",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3497,
+    "qty": "1111.3580795732387",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:45:05.607628",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.03443,
+    "qty": "40952.657566076094",
+    "score": 156,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:50:41.103803",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.0342,
+    "qty": "43859.649122807015",
+    "score": 156,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:50:41.162523",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01676,
+    "qty": "89498.80668257756",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T18:50:41.198737",
+    "symbol": "TONUSDT",
+    "direction": "SHORT",
+    "price": 1.3483,
+    "qty": "1045.761329081065",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:34:55.020738",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01708,
+    "qty": "87822.01405152224",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:35:01.766267",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2603,
+    "qty": "5762.581636573185",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:35:15.816917",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.5951,
+    "qty": "883.9571186759451",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:43:58.194019",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01733,
+    "qty": "86555.10675129831",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:44:01.960754",
+    "symbol": "LITUSDT",
+    "direction": "LONG",
+    "price": 1.217,
+    "qty": "1232.5390304026294",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T19:44:05.841641",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2589,
+    "qty": "5446.118192352259",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T20:10:19.288086",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.0347,
+    "qty": "10040.626855198045",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T20:42:08.589070",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.228,
+    "qty": "337.59990850766724",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T20:52:22.447557",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.2933,
+    "qty": "229.46276069224567",
+    "score": 128,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T21:39:18.921029",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01806,
+    "qty": "83056.47840531562",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T21:40:10.022362",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.2964,
+    "qty": "5060.728744939272",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T21:43:11.307878",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.239,
+    "qty": "435.3195430688484",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:09:18.459570",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2684,
+    "qty": "5588.673621460506",
+    "score": 147,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:09:25.850583",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.4999,
+    "qty": "1000.0666711114075",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:17:43.191638",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2721,
+    "qty": "5512.679162072767",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:17:51.269417",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.4834,
+    "qty": "1011.1905082917622",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:22:22.461490",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.246,
+    "qty": "434.3807763401109",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:29:30.676707",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2762,
+    "qty": "5430.8472121650975",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:30:10.590185",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.241,
+    "qty": "462.820117247763",
+    "score": 145,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:35:33.024394",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.4926,
+    "qty": "1004.9577917727456",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:37:23.802549",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.0185,
+    "qty": "810.8108108106726",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-05T23:51:36.263443",
+    "symbol": "INJUSDT",
+    "direction": "LONG",
+    "price": 3.009,
+    "qty": "158.06199918267257",
+    "score": 126,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T00:55:55.339281",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.23,
+    "qty": "464.39628482972137",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T00:56:04.661543",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2899,
+    "qty": "5174.197999310107",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T00:56:16.950789",
+    "symbol": "INJUSDT",
+    "direction": "LONG",
+    "price": 3.011,
+    "qty": "468.2829624709399",
+    "score": 129,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T01:10:24.907531",
+    "symbol": "BARDUSDT",
+    "direction": "SHORT",
+    "price": 1.4805,
+    "qty": "375.12435724438274",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T01:24:28.864451",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3679,
+    "qty": "152.9302166928422",
+    "score": 133,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T01:59:16.216664",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.238,
+    "qty": "463.24891908585545",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T01:59:18.661016",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.3008,
+    "qty": "4986.702127659574",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T01:59:30.839881",
+    "symbol": "FHEUSDT",
+    "direction": "SHORT",
+    "price": 0.03533,
+    "qty": "39909.42541749222",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:08:13.624460",
+    "symbol": "LITUSDT",
+    "direction": "LONG",
+    "price": 1.189,
+    "qty": "1261.5643397813287",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:10:09.870820",
+    "symbol": "GWEIUSDT",
+    "direction": "SHORT",
+    "price": 0.04969,
+    "qty": "30187.160394445564",
+    "score": 126,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:15:23.812619",
+    "symbol": "SAHARAUSDT",
+    "direction": "LONG",
+    "price": 0.02586,
+    "qty": "8303.08858701619",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:22:13.091616",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3775,
+    "qty": "3973.5099337748343",
+    "score": 126,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:30:33.487198",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.246,
+    "qty": "462.1072088724584",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:33:39.174446",
+    "symbol": "FHEUSDT",
+    "direction": "SHORT",
+    "price": 0.03637,
+    "qty": "41242.782513060214",
+    "score": 134,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:37:12.778503",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.311,
+    "qty": "4533.762057877813",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T02:49:06.822406",
+    "symbol": "ROBOUSDT",
+    "direction": "LONG",
+    "price": 0.03896,
+    "qty": "38501.02669404518",
+    "score": 133,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T03:33:31.738641",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3674,
+    "qty": "4082.7436037016873",
+    "score": 144,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T05:11:42.630200",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3692,
+    "qty": "4062.838569880824",
+    "score": 136,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T05:11:43.476747",
+    "symbol": "FHEUSDT",
+    "direction": "SHORT",
+    "price": 0.03287,
+    "qty": "45634.3170063888",
+    "score": 146,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T05:31:35.401399",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.05073,
+    "qty": "27794.204612655234",
+    "score": 132,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:01:10.601681",
+    "symbol": "SAHARAUSDT",
+    "direction": "LONG",
+    "price": 0.02473,
+    "qty": "60655.0748079256",
+    "score": 139,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:01:10.578882",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01889,
+    "qty": "79407.09370037056",
+    "score": 133,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:06:51.727632",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2792,
+    "qty": "3955.7113787762537",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:12:28.117045",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2791,
+    "qty": "5374.417771408097",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:12:28.203201",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01952,
+    "qty": "76844.26229508196",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:13:09.229114",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.3139,
+    "qty": "4491.876393755973",
+    "score": 134,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:14:12.088492",
+    "symbol": "SAHARAUSDT",
+    "direction": "LONG",
+    "price": 0.0246,
+    "qty": "60975.60975609756",
+    "score": 146,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:14:12.124032",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.166,
+    "qty": "353.09079305738464",
+    "score": 135,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:22:06.956547",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.0502,
+    "qty": "28926.568546329843",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:35:26.384157",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01948,
+    "qty": "77002.05338809035",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:35:26.395389",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2814,
+    "qty": "5330.490405117271",
+    "score": 137,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T07:47:02.261960",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.0195,
+    "qty": "76923.07692307692",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T08:16:34.356493",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.16,
+    "qty": "474.6835443037974",
+    "score": 119,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T08:32:44.536135",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2833,
+    "qty": "5294.740557712672",
+    "score": 152,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T08:46:26.848118",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01862,
+    "qty": "80558.53920515574",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T08:49:48.897484",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.05218,
+    "qty": "28746.64622460713",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:19:25.648440",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3341,
+    "qty": "4489.67375037414",
+    "score": 119,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:20:01.182509",
+    "symbol": "HUMAUSDT",
+    "direction": "SHORT",
+    "price": 0.01808,
+    "qty": "80475.66371681416",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:25:38.183906",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.137,
+    "qty": "478.16385081287854",
+    "score": 114,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:28:39.587899",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2852,
+    "qty": "2280.9918749767207",
+    "score": 142,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:42:26.981442",
+    "symbol": "AGLDUSDT",
+    "direction": "SHORT",
+    "price": 0.2847,
+    "qty": "5268.703898840885",
+    "score": 134,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T09:45:42.292130",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3224,
+    "qty": "4513.027295285359",
+    "score": 119,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T10:03:38.141404",
+    "symbol": "TRUMPUSDT",
+    "direction": "LONG",
+    "price": 3.125,
+    "qty": "480.0",
+    "score": 114,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T10:26:27.551437",
+    "symbol": "WIFUSDT",
+    "direction": "LONG",
+    "price": 0.1905,
+    "qty": "7874.015748031496",
+    "score": 142,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T10:26:33.475960",
+    "symbol": "FETUSDT",
+    "direction": "LONG",
+    "price": 0.1458,
+    "qty": "9979.423868312757",
+    "score": 112,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T10:52:02.841641",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.318,
+    "qty": "2186.313326400236",
+    "score": 160,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T11:05:58.342375",
+    "symbol": "ATOMUSDT",
+    "direction": "LONG",
+    "price": 1.776,
+    "qty": "614.6051753032567",
+    "score": 159,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T11:46:20.182385",
+    "symbol": "ENAUSDT",
+    "direction": "LONG",
+    "price": 0.1069,
+    "qty": "14031.805425631432",
+    "score": 151,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T11:46:20.414310",
+    "symbol": "SAHARAUSDT",
+    "direction": "LONG",
+    "price": 0.02395,
+    "qty": "50649.29951562729",
+    "score": 148,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T12:56:37.487470",
+    "symbol": "ADAUSDT",
+    "direction": "LONG",
+    "price": 0.2567,
+    "qty": "5843.39696143358",
+    "score": 146,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T12:56:42.644394",
+    "symbol": "ETHUSDT",
+    "direction": "LONG",
+    "price": 1967.6,
+    "qty": "0.7394795690180932",
+    "score": 148,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T14:31:42.785385",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.04936,
+    "qty": "30388.97893030794",
+    "score": 181,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T14:32:38.172845",
+    "symbol": "INJUSDT",
+    "direction": "LONG",
+    "price": 2.876,
+    "qty": "521.557719054242",
+    "score": 156,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T14:33:29.693409",
+    "symbol": "UAIUSDT",
+    "direction": "SHORT",
+    "price": 0.3205,
+    "qty": "1930.6113840326566",
+    "score": 174,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T14:42:12.142425",
+    "symbol": "LTCUSDT",
+    "direction": "LONG",
+    "price": 53.59,
+    "qty": "4.713047850645118",
+    "score": 148,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T16:02:11.086000",
+    "symbol": "ESPUSDT",
+    "direction": "LONG",
+    "price": 0.11339,
+    "qty": "5820.619102213599",
+    "score": 202,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T17:09:34.652205",
+    "symbol": "TRIAUSDT",
+    "direction": "SHORT",
+    "price": 0.02114,
+    "qty": "41765.36502186873",
+    "score": 212,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T17:21:28.637064",
+    "symbol": "u1000BONKUSDT",
+    "direction": "LONG",
+    "price": 0.005854,
+    "qty": "146298.637182343",
+    "score": 168,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T17:59:47.416073",
+    "symbol": "ENAUSDT",
+    "direction": "LONG",
+    "price": 0.1047,
+    "qty": "2575.9312320916906",
+    "score": 164,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T18:00:14.415316",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.04779,
+    "qty": "3703.703703703704",
+    "score": 172,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T18:02:41.601906",
+    "symbol": "WIFUSDT",
+    "direction": "LONG",
+    "price": 0.1892,
+    "qty": "613.6363636363636",
+    "score": 181,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T18:14:24.069277",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.347,
+    "qty": "287.89625360230553",
+    "score": 174,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T19:56:30.873843",
+    "symbol": "WLDUSDT",
+    "direction": "LONG",
+    "price": 0.3883,
+    "qty": "328.3543651815607",
+    "score": 170,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T20:23:40.341800",
+    "symbol": "ADAUSDT",
+    "direction": "LONG",
+    "price": 0.2594,
+    "qty": "2313.030069390902",
+    "score": 142,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T20:24:39.533711",
+    "symbol": "WIFUSDT",
+    "direction": "LONG",
+    "price": 0.1885,
+    "qty": "2527.320954907162",
+    "score": 170,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T20:25:10.627296",
+    "symbol": "ENAUSDT",
+    "direction": "LONG",
+    "price": 0.1041,
+    "qty": "3634.0057636887605",
+    "score": 164,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T21:08:31.843360",
+    "symbol": "UAIUSDT",
+    "direction": "SHORT",
+    "price": 0.3517,
+    "qty": "1637.759454080182",
+    "score": 207,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T21:10:18.348191",
+    "symbol": "RIVERUSDT",
+    "direction": "LONG",
+    "price": 15.476,
+    "qty": "29.561902300336",
+    "score": 200,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T21:10:48.037591",
+    "symbol": "SIGNUSDT",
+    "direction": "SHORT",
+    "price": 0.04703,
+    "qty": "7724.856474590685",
+    "score": 187,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T21:20:00.110336",
+    "symbol": "ETHUSDT",
+    "direction": "LONG",
+    "price": 1977.58,
+    "qty": "0.23908008778405931",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T21:36:01.735303",
+    "symbol": "BNBUSDT",
+    "direction": "LONG",
+    "price": 626.83,
+    "qty": "0.6700381283601614",
+    "score": 126,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-06T22:02:47.125514",
+    "symbol": "LTCUSDT",
+    "direction": "LONG",
+    "price": 54.04,
+    "qty": "7.461139896373057",
+    "score": 136,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T00:36:47.502334",
+    "symbol": "ALLOUSDT",
+    "direction": "SHORT",
+    "price": 0.1309,
+    "qty": "4276.546982429335",
+    "score": 162,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T00:37:37.098674",
+    "symbol": "PENDLEUSDT",
+    "direction": "LONG",
+    "price": 1.2155,
+    "qty": "365.77540106951875",
+    "score": 138,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T00:39:06.470159",
+    "symbol": "TRIAUSDT",
+    "direction": "SHORT",
+    "price": 0.02198,
+    "qty": "16064.604185623293",
+    "score": 149,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T01:23:31.965313",
+    "symbol": "BEATUSDT",
+    "direction": "SHORT",
+    "price": 0.3672,
+    "qty": "1071.0784313725487",
+    "score": 169,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T01:31:41.750678",
+    "symbol": "TAOUSDT",
+    "direction": "LONG",
+    "price": 176.07,
+    "qty": "2.000340773555972",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T02:04:33.879508",
+    "symbol": "NEARUSDT",
+    "direction": "LONG",
+    "price": 1.212,
+    "qty": "378.46534653465346",
+    "score": 136,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T03:22:46.601859",
+    "symbol": "SUIUSDT",
+    "direction": "LONG",
+    "price": 0.9035,
+    "qty": "505.0359712230216",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T04:16:11.343657",
+    "symbol": "OPNUSDT",
+    "direction": "LONG",
+    "price": 0.3057,
+    "qty": "1498.5279685966632",
+    "score": 154,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T04:55:01.750285",
+    "symbol": "LINKUSDT",
+    "direction": "LONG",
+    "price": 8.804,
+    "qty": "49.273057701044976",
+    "score": 139,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T06:42:26.896467",
+    "symbol": "FARTCOINUSDT",
+    "direction": "LONG",
+    "price": 0.1537,
+    "qty": "2798.9590110605072",
+    "score": 131,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T09:03:31.757091",
+    "symbol": "BTCUSDT",
+    "direction": "LONG",
+    "price": 67787.3,
+    "qty": "0.008860066708660767",
+    "score": 125,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T09:04:07.566790",
+    "symbol": "ZECUSDT",
+    "direction": "LONG",
+    "price": 207.11,
+    "qty": "2.303123943797982",
+    "score": 141,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T09:04:38.787062",
+    "symbol": "SOLUSDT",
+    "direction": "LONG",
+    "price": 84.06,
+    "qty": "4.503925767309064",
+    "score": 136,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T12:45:09.316637",
+    "symbol": "PENGUUSDT",
+    "direction": "LONG",
+    "price": 0.006724,
+    "qty": "88964.9018441404",
+    "score": 127,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T13:34:40.635090",
+    "symbol": "ONDOUSDT",
+    "direction": "LONG",
+    "price": 0.2496,
+    "qty": "1902.6442307692307",
+    "score": 123,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T14:39:09.914442",
+    "symbol": "WIFUSDT",
+    "direction": "LONG",
+    "price": 0.1791,
+    "qty": "3092.12730318258",
+    "score": 122,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-07T14:39:39.098472",
+    "symbol": "UAIUSDT",
+    "direction": "SHORT",
+    "price": 0.3531,
+    "qty": "1244.6898895497025",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T18:56:21.789258",
+    "symbol": "TRUMPUSDT",
+    "direction": "SHORT",
+    "price": 3.817,
+    "qty": "261.9596541786743",
+    "score": 152,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T18:56:54.152880",
+    "symbol": "XAGUSDT",
+    "direction": "LONG",
+    "price": 80.73,
+    "qty": "8.134522482348569",
+    "score": 161,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T19:21:15.524758",
+    "symbol": "TRUMPUSDT",
+    "direction": "SHORT",
+    "price": 3.859,
+    "qty": "259.1085773516455",
+    "score": 152,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T19:27:03.086008",
+    "symbol": "TAOUSDT",
+    "direction": "SHORT",
+    "price": 238.82,
+    "qty": "2.749769701030065",
+    "score": 130,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T20:02:34.816440",
+    "symbol": "UAIUSDT",
+    "direction": "SHORT",
+    "price": 0.3566,
+    "qty": "2191.5311273135167",
+    "score": 142,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T20:06:54.789909",
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "price": 0.03442,
+    "qty": "14912.841371295757",
+    "score": 159,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T20:39:45.879836",
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "price": 0.03491,
+    "qty": "638.7854482956174",
+    "score": 149,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T20:54:02.897458",
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "price": 0.03545,
+    "qty": "16637.51763046544",
+    "score": 159,
+    "status": "simulated_entry"
+  },
+  {
+    "timestamp": "2026-03-13T21:10:34.389767",
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "price": 0.0357,
+    "qty": "607.8431372549019",
+    "score": 156,
+    "status": "simulated_entry"
+  }
+]

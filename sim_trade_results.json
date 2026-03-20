@@ -1,0 +1,68 @@
+[
+  {
+    "symbol": "TAOUSDT",
+    "direction": "SHORT",
+    "entry": 238.82,
+    "exit": 234.0436,
+    "pnl": 13.134,
+    "hold_time_s": 2087,
+    "score": 130,
+    "reason": "tp",
+    "timestamp": "2026-03-13T20:01:50.769428"
+  },
+  {
+    "symbol": "TRUMPUSDT",
+    "direction": "SHORT",
+    "entry": 3.859,
+    "exit": 3.7818199999999997,
+    "pnl": 19.998,
+    "hold_time_s": 2824,
+    "score": 152,
+    "reason": "tp",
+    "timestamp": "2026-03-13T20:08:19.775816"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "entry": 0.03442,
+    "exit": 0.0351084,
+    "pnl": -10.266,
+    "hold_time_s": 401,
+    "score": 159,
+    "reason": "stop",
+    "timestamp": "2026-03-13T20:13:36.709517"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "entry": 0.03491,
+    "exit": 0.0352104,
+    "pnl": -0.1919,
+    "hold_time_s": 712,
+    "score": 149,
+    "reason": "stop",
+    "timestamp": "2026-03-13T20:51:38.176977"
+  },
+  {
+    "symbol": "UAIUSDT",
+    "direction": "SHORT",
+    "entry": 0.3566,
+    "exit": 0.34946799999999995,
+    "pnl": 15.63,
+    "hold_time_s": 3075,
+    "score": 142,
+    "reason": "tp",
+    "timestamp": "2026-03-13T20:53:50.027792"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "direction": "SHORT",
+    "entry": 0.03545,
+    "exit": 0.0356184,
+    "pnl": -2.8018,
+    "hold_time_s": 798,
+    "score": 159,
+    "reason": "stop",
+    "timestamp": "2026-03-13T21:07:21.210918"
+  }
+]

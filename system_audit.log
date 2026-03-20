@@ -1,0 +1,1850 @@
+[2026-03-13 18:55:39] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 18:55:52] [SIM] ⚡ FAST-TRACK: TRUMPUSDT score 152! (λ=0.90)
+[2026-03-13 18:55:52] [SIM] VERIFY: TRUMPUSDT (SHORT) for 20s...
+[2026-03-13 18:56:02] [SIM]   Step 1/3: TRUMPUSDT score 152 (+0.00%)
+[2026-03-13 18:56:07] [SIM] Scan complete in 28.3s — L: 97  S: 97
+[2026-03-13 18:56:10] [SIM] ENTROPY DEFLATOR: Raising min_score by +36 (Saturation: 28/97, Imbalance: 0.00)
+[2026-03-13 18:56:10] [SIM] ADAPTIVE FILTER: Effective min_score = 161 (Penalty: +36)
+[2026-03-13 18:56:10] [SIM] No qualifying setups found.
+[2026-03-13 18:56:10] [SIM]   Step 2/3: TRUMPUSDT score 152 (+0.00%)
+[2026-03-13 18:56:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 18:56:21] [SIM]   Step 3/3: TRUMPUSDT score 152 (+0.00%)
+[2026-03-13 18:56:21] [SIM] VERIFIED: TRUMPUSDT score 152 — ready for SIM entry.
+[2026-03-13 18:56:21] [SIM] ENTERED ▼ SHORT TRUMPUSDT @ 3.817 (Score: 152)
+[2026-03-13 18:56:22] [SIM] FT THROTTLE: XAGUSDT score 161 < dynamic FT threshold 166 (λ=0.18, H_pen=36)
+[2026-03-13 18:56:22] [SIM] FT THROTTLE: TRUMPUSDT score 152 < dynamic FT threshold 166 (λ=0.50, H_pen=36)
+[2026-03-13 18:56:23] [SIM] FT THROTTLE: TURBOUSDT score 141 < dynamic FT threshold 166 (λ=0.47, H_pen=36)
+[2026-03-13 18:56:25] [SIM] FT THROTTLE: CFXUSDT score 133 < dynamic FT threshold 166 (λ=0.40, H_pen=36)
+[2026-03-13 18:56:25] [SIM] FT THROTTLE: ALGOUSDT score 141 < dynamic FT threshold 166 (λ=0.39, H_pen=36)
+[2026-03-13 18:56:26] [SIM] FT THROTTLE: DEGOUSDT score 137 < dynamic FT threshold 166 (λ=0.38, H_pen=36)
+[2026-03-13 18:56:26] [SIM] Scan complete in 11.5s — L: 97  S: 97
+[2026-03-13 18:56:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +34 (Saturation: 27/97, Imbalance: 0.00)
+[2026-03-13 18:56:28] [SIM] ADAPTIVE FILTER: Effective min_score = 159 (Penalty: +34)
+[2026-03-13 18:56:28] [SIM] Picked 1 candidate(s).
+[2026-03-13 18:56:28] [SIM] VERIFY: XAGUSDT (LONG) for 20s...
+[2026-03-13 18:56:36] [SIM]   Step 1/3: XAGUSDT score 161 (+0.00%)
+[2026-03-13 18:56:45] [SIM]   Step 2/3: XAGUSDT score 161 (+0.00%)
+[2026-03-13 18:56:54] [SIM]   Step 3/3: XAGUSDT score 161 (+0.00%)
+[2026-03-13 18:56:54] [SIM] VERIFIED: XAGUSDT score 161 — ready for SIM entry.
+[2026-03-13 18:56:54] [SIM] ENTERED ▲ LONG XAGUSDT @ 80.73 (Score: 161)
+[2026-03-13 18:57:08] [SIM] Waiting until 19:02:08
+[2026-03-13 19:00:01] [SIM] Waiting until 19:05:01
+[2026-03-13 19:02:41] [SIM] Waiting until 19:07:41
+[2026-03-13 19:03:20] [SIM] Waiting until 19:08:20
+[2026-03-13 19:05:11] [SIM] Waiting until 19:10:11
+[2026-03-13 19:10:15] [SIM] Waiting until 19:15:15
+[2026-03-13 19:11:16] [SIM] Waiting until 19:16:16
+[2026-03-13 19:12:03] [SIM] Waiting until 19:17:03
+[2026-03-13 19:13:20] [SIM] Waiting until 19:18:20
+[2026-03-13 19:14:14] [SIM] Waiting until 19:19:14
+[2026-03-13 19:17:23] [HISTORY] CLOSED TRUMPUSDT | Entry: 3.817  Exit: 3.852 | PnL: -9.1686 USDT | Held: 21m 1s | Score: 152
+[2026-03-13 19:17:24] [HISTORY] CLOSED XAGUSDT | Entry: 80.73  Exit: 80.72 | PnL: -0.0813 USDT | Held: 20m 29s | Score: 161
+[2026-03-13 19:17:24] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 19:17:36] [SIM] ⚡ FAST-TRACK: TRUMPUSDT score 152! (λ=0.90)
+[2026-03-13 19:17:36] [SIM] VERIFY: TRUMPUSDT (SHORT) for 20s...
+[2026-03-13 19:17:37] [SIM] FT THROTTLE: TURBOUSDT score 141 < dynamic FT threshold 145 (λ=1.61, H_pen=0)
+[2026-03-13 19:17:48] [SIM]   Step 1/3: TRUMPUSDT score 142 (+0.00%)
+[2026-03-13 19:17:57] [SIM]   Step 2/3: TRUMPUSDT score 152 (+0.00%)
+[2026-03-13 19:18:00] [SIM] Scan complete in 36.3s — L: 90  S: 91
+[2026-03-13 19:20:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 19:20:43] [SIM] ⚡ FAST-TRACK: TRUMPUSDT score 152! (λ=0.90)
+[2026-03-13 19:20:43] [SIM] VERIFY: TRUMPUSDT (SHORT) for 20s...
+[2026-03-13 19:20:45] [SIM] FT THROTTLE: TURBOUSDT score 131 < dynamic FT threshold 145 (λ=1.54, H_pen=0)
+[2026-03-13 19:20:55] [SIM]   Step 1/3: TRUMPUSDT score 152 (+0.00%)
+[2026-03-13 19:21:03] [SIM] Scan complete in 31.6s — L: 98  S: 98
+[2026-03-13 19:21:03] [SIM]   Step 2/3: TRUMPUSDT score 152 (+0.03%)
+[2026-03-13 19:21:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +35 (Saturation: 28/98, Imbalance: 0.00)
+[2026-03-13 19:21:05] [SIM] ADAPTIVE FILTER: Effective min_score = 160 (Penalty: +35)
+[2026-03-13 19:21:05] [SIM] No qualifying setups found.
+[2026-03-13 19:21:10] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 19:21:15] [SIM]   Step 3/3: TRUMPUSDT score 152 (+0.03%)
+[2026-03-13 19:21:15] [SIM] VERIFIED: TRUMPUSDT score 152 — ready for SIM entry.
+[2026-03-13 19:21:15] [SIM] ENTERED ▼ SHORT TRUMPUSDT @ 3.859 (Score: 152)
+[2026-03-13 19:21:17] [SIM] FT THROTTLE: TURBOUSDT score 131 < dynamic FT threshold 165 (λ=0.44, H_pen=35)
+[2026-03-13 19:21:18] [SIM] FT THROTTLE: TRUMPUSDT score 152 < dynamic FT threshold 165 (λ=0.44, H_pen=35)
+[2026-03-13 19:21:18] [SIM] FT THROTTLE: XAGUSDT score 154 < dynamic FT threshold 165 (λ=0.21, H_pen=35)
+[2026-03-13 19:21:18] [SIM] FT THROTTLE: KITEUSDT score 133 < dynamic FT threshold 165 (λ=0.21, H_pen=35)
+[2026-03-13 19:21:19] [SIM] FT THROTTLE: ALGOUSDT score 134 < dynamic FT threshold 165 (λ=0.39, H_pen=35)
+[2026-03-13 19:21:19] [SIM] FT THROTTLE: DEGOUSDT score 137 < dynamic FT threshold 165 (λ=0.38, H_pen=35)
+[2026-03-13 19:21:20] [SIM] Scan complete in 10.3s — L: 98  S: 98
+[2026-03-13 19:21:21] [SIM] ENTROPY DEFLATOR: Raising min_score by +35 (Saturation: 28/98, Imbalance: 0.00)
+[2026-03-13 19:21:21] [SIM] ADAPTIVE FILTER: Effective min_score = 160 (Penalty: +35)
+[2026-03-13 19:21:21] [SIM] No qualifying setups found.
+[2026-03-13 19:26:20] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 19:26:33] [SIM] ⚡ FAST-TRACK: TAOUSDT score 130! (λ=1.47)
+[2026-03-13 19:26:33] [SIM] VERIFY: TAOUSDT (SHORT) for 20s...
+[2026-03-13 19:26:33] [SIM] FT THROTTLE: TURBOUSDT score 141 < dynamic FT threshold 145 (λ=1.40, H_pen=0)
+[2026-03-13 19:26:44] [SIM]   Step 1/3: TAOUSDT score 130 (+0.00%)
+[2026-03-13 19:26:53] [SIM]   Step 2/3: TAOUSDT score 120 (+0.00%)
+[2026-03-13 19:26:55] [SIM] Scan complete in 34.3s — L: 90  S: 90
+[2026-03-13 19:26:56] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/97, Imbalance: 0.00)
+[2026-03-13 19:26:56] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 19:26:56] [SIM] Picked 1 candidate(s).
+[2026-03-13 19:26:56] [SIM] VERIFY: XAGUSDT (LONG) for 20s...
+[2026-03-13 19:27:03] [SIM]   Step 3/3: TAOUSDT score 130 (+0.09%)
+[2026-03-13 19:27:03] [SIM] VERIFIED: TAOUSDT score 130 — ready for SIM entry.
+[2026-03-13 19:27:03] [SIM] ENTERED ▼ SHORT TAOUSDT @ 238.82 (Score: 130)
+[2026-03-13 19:27:06] [SIM]   Step 1/3: XAGUSDT score 154 (+0.00%)
+[2026-03-13 19:27:15] [SIM]   Step 2/3: XAGUSDT score 154 (+0.00%)
+[2026-03-13 19:28:04] [SIM] Waiting until 19:33:04
+[2026-03-13 19:33:08] [SIM] Waiting until 19:38:08
+[2026-03-13 19:38:12] [SIM] Waiting until 19:43:12
+[2026-03-13 19:43:18] [SIM] Waiting until 19:48:18
+[2026-03-13 19:48:55] [SIM] Waiting until 19:53:55
+[2026-03-13 19:54:01] [SIM] Waiting until 19:59:01
+[2026-03-13 19:59:43] [SIM] Waiting until 20:04:43
+[2026-03-13 20:01:42] [EXIT] TAKE PROFIT HIT HIT: TAOUSDT Sell closed at 234.0436
+[2026-03-13 20:01:46] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:01:50] [HISTORY] CLOSED TAOUSDT | Entry: 238.82  Exit: 234.0436 | PnL: +13.1340 USDT | Held: 34m 47s | Score: 130
+[2026-03-13 20:02:05] [SIM] ⚡ FAST-TRACK: UAIUSDT score 132! (λ=1.19)
+[2026-03-13 20:02:05] [SIM] VERIFY: UAIUSDT (SHORT) for 20s...
+[2026-03-13 20:02:14] [SIM] Scan complete in 28.4s — L: 97  S: 97
+[2026-03-13 20:02:14] [SIM]   Step 1/3: UAIUSDT score 132 (+0.00%)
+[2026-03-13 20:02:16] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/97, Imbalance: 0.00)
+[2026-03-13 20:02:16] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:02:16] [SIM] No qualifying setups found.
+[2026-03-13 20:02:23] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:02:23] [SIM]   Step 2/3: UAIUSDT score 132 (+0.00%)
+[2026-03-13 20:02:30] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.32, H_pen=27)
+[2026-03-13 20:02:33] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.20, H_pen=27)
+[2026-03-13 20:02:33] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 157 (λ=0.26, H_pen=27)
+[2026-03-13 20:02:34] [SIM]   Step 3/3: UAIUSDT score 142 (+0.14%)
+[2026-03-13 20:02:34] [SIM] VERIFIED: UAIUSDT score 142 — ready for SIM entry.
+[2026-03-13 20:02:34] [SIM] ENTERED ▼ SHORT UAIUSDT @ 0.3566 (Score: 142)
+[2026-03-13 20:02:35] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 157 (λ=0.24, H_pen=27)
+[2026-03-13 20:02:37] [SIM] Scan complete in 13.8s — L: 97  S: 97
+[2026-03-13 20:02:39] [SIM] ENTROPY DEFLATOR: Raising min_score by +30 (Saturation: 24/97, Imbalance: 0.00)
+[2026-03-13 20:02:39] [SIM] ADAPTIVE FILTER: Effective min_score = 155 (Penalty: +30)
+[2026-03-13 20:02:39] [SIM] No qualifying setups found.
+[2026-03-13 20:02:47] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:02:50] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 160 (λ=0.13, H_pen=30)
+[2026-03-13 20:02:50] [SIM] FT THROTTLE: KITEUSDT score 133 < dynamic FT threshold 160 (λ=0.12, H_pen=30)
+[2026-03-13 20:02:52] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 160 (λ=0.13, H_pen=30)
+[2026-03-13 20:02:58] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 160 (λ=0.11, H_pen=30)
+[2026-03-13 20:03:00] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 160 (λ=0.11, H_pen=30)
+[2026-03-13 20:03:04] [SIM] Scan complete in 16.9s — L: 97  S: 97
+[2026-03-13 20:03:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:03:06] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:03:06] [SIM] No qualifying setups found.
+[2026-03-13 20:03:13] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:03:21] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:03:23] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:03:25] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:03:26] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:03:27] [SIM] Scan complete in 14.0s — L: 96  S: 96
+[2026-03-13 20:03:29] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:03:29] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:03:29] [SIM] No qualifying setups found.
+[2026-03-13 20:03:36] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:03:39] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:03:41] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:03:42] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:03:44] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:03:45] [SIM] Scan complete in 9.6s — L: 96  S: 96
+[2026-03-13 20:03:47] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:03:47] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:03:47] [SIM] No qualifying setups found.
+[2026-03-13 20:03:55] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:03:59] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:04:02] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:04:07] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:04:07] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:04:09] [SIM] Scan complete in 14.1s — L: 96  S: 96
+[2026-03-13 20:04:11] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:04:11] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:04:11] [SIM] No qualifying setups found.
+[2026-03-13 20:04:18] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:04:23] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:04:24] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:04:25] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:04:27] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:04:29] [SIM] Scan complete in 10.4s — L: 96  S: 96
+[2026-03-13 20:04:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:04:31] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:04:31] [SIM] No qualifying setups found.
+[2026-03-13 20:04:37] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:04:45] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:05:00] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:05:31] [SIM] Scan complete in 30.6s — L: 95  S: 94
+[2026-03-13 20:05:32] [SIM] ENTROPY DEFLATOR: Raising min_score by +26 (Saturation: 20/96, Imbalance: 0.01)
+[2026-03-13 20:05:32] [SIM] ADAPTIVE FILTER: Effective min_score = 151 (Penalty: +26)
+[2026-03-13 20:05:32] [SIM] No qualifying setups found.
+[2026-03-13 20:05:39] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:05:53] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 156 (λ=0.13, H_pen=26)
+[2026-03-13 20:05:59] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 156 (λ=0.12, H_pen=26)
+[2026-03-13 20:05:59] [SIM] FT THROTTLE: KITEUSDT score 144 < dynamic FT threshold 156 (λ=0.10, H_pen=26)
+[2026-03-13 20:06:03] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 156 (λ=0.10, H_pen=26)
+[2026-03-13 20:06:05] [SIM] FT THROTTLE: PHAUSDT score 139 < dynamic FT threshold 156 (λ=0.11, H_pen=26)
+[2026-03-13 20:06:05] [SIM] Scan complete in 26.1s — L: 96  S: 96
+[2026-03-13 20:06:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:06:06] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:06:06] [SIM] No qualifying setups found.
+[2026-03-13 20:06:16] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:06:20] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:06:23] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:06:24] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:06:26] [SIM] ⚡ FAST-TRACK: PHAUSDT score 159! (λ=0.90)
+[2026-03-13 20:06:26] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:06:27] [SIM] Scan complete in 10.8s — L: 96  S: 96
+[2026-03-13 20:06:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:06:28] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:06:29] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:06:35] [SIM]   Step 1/3: PHAUSDT score 159 (+0.00%)
+[2026-03-13 20:06:35] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:06:39] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 162 (λ=0.33, H_pen=32)
+[2026-03-13 20:06:40] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 162 (λ=0.30, H_pen=32)
+[2026-03-13 20:06:45] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 162 (λ=0.22, H_pen=32)
+[2026-03-13 20:06:45] [SIM]   Step 2/3: PHAUSDT score 159 (+0.17%)
+[2026-03-13 20:06:45] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:06:46] [SIM] Scan complete in 11.0s — L: 96  S: 96
+[2026-03-13 20:06:49] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:06:49] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:06:49] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:06:54] [SIM]   Step 3/3: PHAUSDT score 159 (+0.17%)
+[2026-03-13 20:06:54] [SIM] VERIFIED: PHAUSDT score 159 — ready for SIM entry.
+[2026-03-13 20:06:54] [SIM] ENTERED ▼ SHORT PHAUSDT @ 0.03442 (Score: 159)
+[2026-03-13 20:08:11] [EXIT] TAKE PROFIT HIT HIT: TRUMPUSDT Sell closed at 3.7818199999999997
+[2026-03-13 20:08:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:08:19] [HISTORY] CLOSED TRUMPUSDT | Entry: 3.859  Exit: 3.7818199999999997 | PnL: +19.9980 USDT | Held: 47m 4s | Score: 152
+[2026-03-13 20:08:22] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:08:23] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:08:28] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:08:29] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:08:30] [SIM] Scan complete in 15.4s — L: 96  S: 96
+[2026-03-13 20:08:32] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:08:32] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:08:32] [SIM] No qualifying setups found.
+[2026-03-13 20:08:39] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:08:43] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:08:44] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:08:44] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:08:46] [SIM] Scan complete in 6.4s — L: 96  S: 96
+[2026-03-13 20:08:48] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:08:48] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:08:48] [SIM] No qualifying setups found.
+[2026-03-13 20:08:55] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:09:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.24, H_pen=29)
+[2026-03-13 20:09:07] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 159 (λ=0.19, H_pen=29)
+[2026-03-13 20:09:10] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:09:12] [SIM] Scan complete in 17.3s — L: 96  S: 96
+[2026-03-13 20:09:14] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:09:14] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:09:14] [SIM] No qualifying setups found.
+[2026-03-13 20:09:21] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:09:26] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 20:09:26] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 20:09:28] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:09:29] [SIM] Scan complete in 7.2s — L: 96  S: 96
+[2026-03-13 20:09:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:09:31] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:09:31] [SIM] No qualifying setups found.
+[2026-03-13 20:09:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:09:45] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.26, H_pen=28)
+[2026-03-13 20:09:49] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 158 (λ=0.21, H_pen=28)
+[2026-03-13 20:09:56] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:09:56] [SIM] FT THROTTLE: SAHARAUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:10:01] [SIM] Scan complete in 23.4s — L: 96  S: 96
+[2026-03-13 20:10:02] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:10:02] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:10:02] [SIM] No qualifying setups found.
+[2026-03-13 20:10:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:10:24] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.18, H_pen=28)
+[2026-03-13 20:10:30] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 158 (λ=0.14, H_pen=28)
+[2026-03-13 20:10:33] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:10:35] [SIM] Scan complete in 25.9s — L: 96  S: 96
+[2026-03-13 20:10:37] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:10:37] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:10:37] [SIM] No qualifying setups found.
+[2026-03-13 20:10:44] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:10:50] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 157 (λ=0.27, H_pen=27)
+[2026-03-13 20:10:50] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:10:50] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.26, H_pen=27)
+[2026-03-13 20:10:56] [SIM] Scan complete in 11.9s — L: 96  S: 96
+[2026-03-13 20:10:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:10:58] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:10:58] [SIM] No qualifying setups found.
+[2026-03-13 20:11:05] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:11:09] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.26, H_pen=28)
+[2026-03-13 20:11:14] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.20, H_pen=28)
+[2026-03-13 20:11:19] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:11:20] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 158 (λ=0.15, H_pen=28)
+[2026-03-13 20:11:22] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 20:11:24] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:11:24] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:11:24] [SIM] No qualifying setups found.
+[2026-03-13 20:11:30] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:11:36] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:11:36] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.11, H_pen=27)
+[2026-03-13 20:11:36] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 157 (λ=0.11, H_pen=27)
+[2026-03-13 20:11:38] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 157 (λ=0.11, H_pen=27)
+[2026-03-13 20:11:38] [SIM] Scan complete in 7.8s — L: 96  S: 96
+[2026-03-13 20:11:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:11:40] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:11:40] [SIM] No qualifying setups found.
+[2026-03-13 20:11:49] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:11:51] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:11:54] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:12:00] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:12:06] [SIM] Scan complete in 17.6s — L: 96  S: 96
+[2026-03-13 20:12:08] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:12:08] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:12:08] [SIM] No qualifying setups found.
+[2026-03-13 20:12:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:12:20] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 157 (λ=0.23, H_pen=27)
+[2026-03-13 20:12:21] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.21, H_pen=27)
+[2026-03-13 20:12:22] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:12:23] [SIM] Scan complete in 8.0s — L: 96  S: 96
+[2026-03-13 20:12:24] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:12:24] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:12:24] [SIM] No qualifying setups found.
+[2026-03-13 20:12:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:12:34] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.39, H_pen=28)
+[2026-03-13 20:12:39] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.27, H_pen=28)
+[2026-03-13 20:12:42] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:12:43] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 158 (λ=0.22, H_pen=28)
+[2026-03-13 20:12:44] [SIM] Scan complete in 13.6s — L: 96  S: 96
+[2026-03-13 20:12:45] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:12:45] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:12:46] [SIM] No qualifying setups found.
+[2026-03-13 20:12:52] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:12:57] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.13, H_pen=28)
+[2026-03-13 20:12:59] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:13:00] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.12, H_pen=28)
+[2026-03-13 20:13:00] [SIM] Scan complete in 7.7s — L: 96  S: 96
+[2026-03-13 20:13:02] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:13:02] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:13:02] [SIM] No qualifying setups found.
+[2026-03-13 20:13:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:13:12] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.34, H_pen=28)
+[2026-03-13 20:13:17] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.24, H_pen=28)
+[2026-03-13 20:13:21] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:13:22] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 158 (λ=0.19, H_pen=28)
+[2026-03-13 20:13:22] [SIM] Scan complete in 13.8s — L: 96  S: 96
+[2026-03-13 20:13:24] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:13:24] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:13:24] [SIM] No qualifying setups found.
+[2026-03-13 20:13:30] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:13:31] [EXIT] STOP HIT HIT: PHAUSDT Sell closed at 0.0351084
+[2026-03-13 20:13:35] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 159 (λ=0.12, H_pen=29)
+[2026-03-13 20:13:36] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.12, H_pen=29)
+[2026-03-13 20:13:36] [HISTORY] CLOSED PHAUSDT | Entry: 0.03442  Exit: 0.0351084 | PnL: -10.2660 USDT | Held: 6m 41s | Score: 159
+[2026-03-13 20:13:37] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:13:37] [SIM] ⚡ FAST-TRACK: PHAUSDT score 164! (λ=0.92)
+[2026-03-13 20:13:37] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:13:38] [SIM] Scan complete in 7.6s — L: 96  S: 96
+[2026-03-13 20:13:39] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:13:39] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:13:39] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:13:39] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:13:47] [SIM]   Step 1/3: PHAUSDT score 174 (+0.00%)
+[2026-03-13 20:13:48] [SIM]   Step 1/3: PHAUSDT score 164 (+0.00%)
+[2026-03-13 20:13:56] [SIM] FAIL: PHAUSDT spread too high: 0.28%
+[2026-03-13 20:13:57] [SIM]   Step 2/3: PHAUSDT score 164 (+0.11%)
+[2026-03-13 20:14:06] [SIM]   Step 3/3: PHAUSDT score 174 (+0.11%)
+[2026-03-13 20:14:06] [SIM] VERIFIED: PHAUSDT score 174 — ready for SIM entry.
+[2026-03-13 20:14:06] [SKIP] COOLDOWN: PHAUSDT — 16.0h remaining before re-entry
+[2026-03-13 20:14:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:14:15] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.12, H_pen=27)
+[2026-03-13 20:14:17] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 157 (λ=0.12, H_pen=27)
+[2026-03-13 20:14:23] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:14:23] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 157 (λ=0.89, H_pen=27)
+[2026-03-13 20:14:25] [SIM] Scan complete in 16.6s — L: 96  S: 96
+[2026-03-13 20:14:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:14:27] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:14:27] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:14:27] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:14:36] [SIM]   Step 1/3: PHAUSDT score 159 (+0.00%)
+[2026-03-13 20:14:45] [SIM]   Step 2/3: PHAUSDT score 149 (+0.03%)
+[2026-03-13 20:14:53] [SIM]   Step 3/3: PHAUSDT score 159 (+0.59%)
+[2026-03-13 20:14:53] [SIM] VERIFIED: PHAUSDT score 159 — ready for SIM entry.
+[2026-03-13 20:14:53] [SKIP] COOLDOWN: PHAUSDT — 16.0h remaining before re-entry
+[2026-03-13 20:15:00] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:15:07] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:15:11] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:15:14] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:15:16] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:15:16] [SIM] Scan complete in 15.6s — L: 96  S: 96
+[2026-03-13 20:15:17] [SIM] ENTROPY DEFLATOR: Raising min_score by +26 (Saturation: 20/96, Imbalance: 0.00)
+[2026-03-13 20:15:17] [SIM] ADAPTIVE FILTER: Effective min_score = 151 (Penalty: +26)
+[2026-03-13 20:15:17] [SIM] No qualifying setups found.
+[2026-03-13 20:15:24] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:15:33] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 156 (λ=0.10, H_pen=26)
+[2026-03-13 20:15:42] [SIM] FT THROTTLE: UAIUSDT score 134 < dynamic FT threshold 156 (λ=0.76, H_pen=26)
+[2026-03-13 20:15:45] [SIM] Scan complete in 21.0s — L: 84  S: 84
+[2026-03-13 20:15:47] [SIM] ENTROPY DEFLATOR: Raising min_score by +19 (Saturation: 15/96, Imbalance: 0.00)
+[2026-03-13 20:15:47] [SIM] ADAPTIVE FILTER: Effective min_score = 144 (Penalty: +19)
+[2026-03-13 20:15:47] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:15:47] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:16:00] [SIM] FAIL: PHAUSDT spread too high: 0.40%
+[2026-03-13 20:16:07] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:16:14] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 149 (λ=0.13, H_pen=19)
+[2026-03-13 20:16:21] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 149 (λ=0.11, H_pen=19)
+[2026-03-13 20:16:25] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 149 (λ=0.10, H_pen=19)
+[2026-03-13 20:16:26] [SIM] Scan complete in 19.3s — L: 96  S: 96
+[2026-03-13 20:16:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:16:28] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:16:28] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:16:28] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:16:37] [SIM]   Step 1/3: PHAUSDT score 159 (+0.00%)
+[2026-03-13 20:16:45] [SIM]   Step 2/3: PHAUSDT score 164 (-0.34%)
+[2026-03-13 20:16:53] [SIM] FAIL: PHAUSDT spread too high: 0.26%
+[2026-03-13 20:17:00] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:17:07] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 20:17:08] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 20:17:15] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:17:16] [SIM] Scan complete in 16.0s — L: 96  S: 96
+[2026-03-13 20:17:18] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:17:18] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:17:18] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:17:18] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:17:26] [SIM] FAIL: PHAUSDT spread too high: 0.37%
+[2026-03-13 20:17:33] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:17:40] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.17, H_pen=28)
+[2026-03-13 20:17:41] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:17:42] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 158 (λ=0.95, H_pen=28)
+[2026-03-13 20:17:43] [SIM] Scan complete in 9.6s — L: 96  S: 96
+[2026-03-13 20:17:44] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:17:44] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:17:44] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:17:44] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:17:54] [SIM] FAIL: PHAUSDT spread too high: 0.28%
+[2026-03-13 20:18:00] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:18:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.21, H_pen=28)
+[2026-03-13 20:18:05] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 158 (λ=0.19, H_pen=28)
+[2026-03-13 20:18:11] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 158 (λ=0.15, H_pen=28)
+[2026-03-13 20:18:11] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:18:12] [SIM] Scan complete in 11.7s — L: 96  S: 96
+[2026-03-13 20:18:14] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:18:14] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:18:14] [SIM] No qualifying setups found.
+[2026-03-13 20:18:20] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:18:26] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:18:27] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:29] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:18:30] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:18:30] [SIM] Scan complete in 10.1s — L: 96  S: 96
+[2026-03-13 20:18:32] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:18:32] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:18:32] [SIM] No qualifying setups found.
+[2026-03-13 20:18:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:18:42] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:44] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:48] [SIM] FT THROTTLE: KITEUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:51] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:53] [SIM] FT THROTTLE: SAHARAUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:54] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:18:56] [SIM] Scan complete in 17.7s — L: 96  S: 96
+[2026-03-13 20:18:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:18:58] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:18:59] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:18:59] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:19:07] [SIM]   Step 1/3: PHAUSDT score 149 (+0.00%)
+[2026-03-13 20:19:16] [SIM] FAIL: PHAUSDT spread too high: 0.37%
+[2026-03-13 20:19:24] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:19:30] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:19:31] [SIM] FT THROTTLE: UAIUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:19:38] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:19:39] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:19:40] [SIM] Scan complete in 15.5s — L: 96  S: 96
+[2026-03-13 20:19:41] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:19:41] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:19:41] [SIM] No qualifying setups found.
+[2026-03-13 20:19:49] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:19:52] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:19:54] [SIM] FT THROTTLE: UAIUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:19:55] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:19:55] [SIM] Scan complete in 6.3s — L: 96  S: 96
+[2026-03-13 20:19:57] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:19:57] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:19:57] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:19:57] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:20:06] [SIM]   Step 1/3: PHAUSDT score 164 (+0.00%)
+[2026-03-13 20:20:15] [SIM]   Step 2/3: PHAUSDT score 149 (+0.31%)
+[2026-03-13 20:20:23] [SIM]   Step 3/3: PHAUSDT score 149 (+0.31%)
+[2026-03-13 20:20:23] [SIM] VERIFIED: PHAUSDT score 149 — ready for SIM entry.
+[2026-03-13 20:20:23] [SKIP] COOLDOWN: PHAUSDT — 15.9h remaining before re-entry
+[2026-03-13 20:20:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:20:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:20:46] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:20:55] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:20:55] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:20:56] [SIM] Scan complete in 25.1s — L: 96  S: 96
+[2026-03-13 20:20:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:20:58] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:20:58] [SIM] No qualifying setups found.
+[2026-03-13 20:21:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:21:09] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:11] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:12] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:12] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:12] [SIM] Scan complete in 7.7s — L: 96  S: 96
+[2026-03-13 20:21:13] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:21:13] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:21:13] [SIM] No qualifying setups found.
+[2026-03-13 20:21:20] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:21:24] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:21:29] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:21:36] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:21:36] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:21:36] [SIM] Scan complete in 15.8s — L: 96  S: 96
+[2026-03-13 20:21:38] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:21:38] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:21:38] [SIM] No qualifying setups found.
+[2026-03-13 20:21:46] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:21:53] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:53] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:54] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:55] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:21:55] [SIM] Scan complete in 9.5s — L: 96  S: 96
+[2026-03-13 20:21:57] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:21:57] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:21:57] [SIM] No qualifying setups found.
+[2026-03-13 20:22:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:22:07] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:10] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:16] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:16] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:17] [SIM] Scan complete in 13.3s — L: 96  S: 96
+[2026-03-13 20:22:19] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:22:19] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:22:19] [SIM] No qualifying setups found.
+[2026-03-13 20:22:26] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:22:32] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:22:33] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:22:34] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:22:34] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:22:35] [SIM] Scan complete in 8.8s — L: 96  S: 96
+[2026-03-13 20:22:36] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:22:36] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:22:36] [SIM] No qualifying setups found.
+[2026-03-13 20:22:43] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:22:47] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:49] [SIM] FT THROTTLE: UAIUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:54] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:59] [SIM] FT THROTTLE: PHAUSDT score 137 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:22:59] [SIM] Scan complete in 16.3s — L: 96  S: 96
+[2026-03-13 20:23:01] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:23:01] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:23:01] [SIM] No qualifying setups found.
+[2026-03-13 20:23:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:23:15] [SIM] FT THROTTLE: UAIUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:23:16] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:23:18] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:23:18] [SIM] Scan complete in 9.0s — L: 96  S: 96
+[2026-03-13 20:23:20] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:23:20] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:23:20] [SIM] No qualifying setups found.
+[2026-03-13 20:23:27] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:23:29] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:23:32] [SIM] FT THROTTLE: UAIUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:23:38] [SIM] ⚡ FAST-TRACK: PHAUSDT score 164! (λ=0.90)
+[2026-03-13 20:23:38] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:23:39] [SIM] Scan complete in 12.3s — L: 96  S: 96
+[2026-03-13 20:23:41] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:23:41] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:23:41] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:23:41] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:23:47] [SIM] FAIL: PHAUSDT spread too high: 0.28%
+[2026-03-13 20:23:49] [SIM] FAIL: PHAUSDT spread too high: 0.43%
+[2026-03-13 20:23:56] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:24:02] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.17, H_pen=33)
+[2026-03-13 20:24:04] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 163 (λ=0.16, H_pen=33)
+[2026-03-13 20:24:05] [SIM] Scan complete in 9.1s — L: 96  S: 96
+[2026-03-13 20:24:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:24:06] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:24:06] [SIM] No qualifying setups found.
+[2026-03-13 20:24:13] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:24:18] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 163 (λ=0.12, H_pen=33)
+[2026-03-13 20:24:19] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 163 (λ=0.11, H_pen=33)
+[2026-03-13 20:24:26] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 163 (λ=0.11, H_pen=33)
+[2026-03-13 20:24:27] [SIM] Scan complete in 13.9s — L: 96  S: 96
+[2026-03-13 20:24:29] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:24:29] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:24:29] [SIM] No qualifying setups found.
+[2026-03-13 20:24:35] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:24:42] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:24:44] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:24:44] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:24:45] [SIM] Scan complete in 10.0s — L: 96  S: 96
+[2026-03-13 20:24:47] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:24:47] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:24:47] [SIM] No qualifying setups found.
+[2026-03-13 20:24:54] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:24:59] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:25:00] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:25:07] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:25:07] [SIM] Scan complete in 13.2s — L: 96  S: 96
+[2026-03-13 20:25:09] [SIM] ENTROPY DEFLATOR: Raising min_score by +35 (Saturation: 27/96, Imbalance: 0.00)
+[2026-03-13 20:25:09] [SIM] ADAPTIVE FILTER: Effective min_score = 160 (Penalty: +35)
+[2026-03-13 20:25:09] [SIM] No qualifying setups found.
+[2026-03-13 20:25:17] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:25:24] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 165 (λ=0.10, H_pen=35)
+[2026-03-13 20:25:24] [SIM] FT THROTTLE: MOODENGUSDT score 130 < dynamic FT threshold 165 (λ=0.10, H_pen=35)
+[2026-03-13 20:25:24] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 165 (λ=0.10, H_pen=35)
+[2026-03-13 20:25:25] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 165 (λ=0.10, H_pen=35)
+[2026-03-13 20:25:26] [SIM] Scan complete in 9.4s — L: 96  S: 96
+[2026-03-13 20:25:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:25:28] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:25:28] [SIM] No qualifying setups found.
+[2026-03-13 20:25:34] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:25:37] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:25:39] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:25:46] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:25:47] [SIM] Scan complete in 12.8s — L: 96  S: 96
+[2026-03-13 20:25:49] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:25:49] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:25:49] [SIM] No qualifying setups found.
+[2026-03-13 20:25:56] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:26:09] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:26:13] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:26:15] [SIM] Scan complete in 18.7s — L: 96  S: 96
+[2026-03-13 20:26:16] [SIM] ENTROPY DEFLATOR: Raising min_score by +35 (Saturation: 27/96, Imbalance: 0.00)
+[2026-03-13 20:26:16] [SIM] ADAPTIVE FILTER: Effective min_score = 160 (Penalty: +35)
+[2026-03-13 20:26:16] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:26:16] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:26:26] [SIM] FAIL: PHAUSDT spread too high: 0.52%
+[2026-03-13 20:26:32] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:26:36] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 165 (λ=0.19, H_pen=35)
+[2026-03-13 20:26:41] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 165 (λ=0.15, H_pen=35)
+[2026-03-13 20:26:59] [SIM] Scan complete in 26.5s — L: 83  S: 83
+[2026-03-13 20:27:01] [SIM] ENTROPY DEFLATOR: Raising min_score by +22 (Saturation: 17/96, Imbalance: 0.00)
+[2026-03-13 20:27:01] [SIM] ADAPTIVE FILTER: Effective min_score = 147 (Penalty: +22)
+[2026-03-13 20:27:01] [SIM] No qualifying setups found.
+[2026-03-13 20:27:08] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:27:14] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 152 (λ=0.10, H_pen=22)
+[2026-03-13 20:27:18] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 152 (λ=0.10, H_pen=22)
+[2026-03-13 20:27:27] [SIM] Scan complete in 19.3s — L: 96  S: 96
+[2026-03-13 20:27:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:27:28] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:27:28] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:27:28] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:27:37] [SIM] FAIL: PHAUSDT spread too high: 0.26%
+[2026-03-13 20:27:44] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:27:51] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 163 (λ=0.17, H_pen=33)
+[2026-03-13 20:27:55] [SIM] FT THROTTLE: DOTUSDT score 145 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:27:56] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 163 (λ=0.14, H_pen=33)
+[2026-03-13 20:27:57] [SIM] FT THROTTLE: KITEUSDT score 144 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:28:03] [SIM] Scan complete in 19.4s — L: 96  S: 96
+[2026-03-13 20:28:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:28:05] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:28:05] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:28:05] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:28:14] [SIM] FAIL: PHAUSDT spread too high: 0.26%
+[2026-03-13 20:28:21] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:28:27] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.16, H_pen=29)
+[2026-03-13 20:28:31] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 159 (λ=0.14, H_pen=29)
+[2026-03-13 20:28:33] [SIM] Scan complete in 12.3s — L: 96  S: 96
+[2026-03-13 20:28:34] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:28:34] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:28:34] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:28:34] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:28:43] [SIM]   Step 1/3: PHAUSDT score 149 (+0.00%)
+[2026-03-13 20:28:52] [SIM] FAIL: PHAUSDT spread too high: 0.37%
+[2026-03-13 20:28:59] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:29:05] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.13, H_pen=29)
+[2026-03-13 20:29:09] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 159 (λ=0.12, H_pen=29)
+[2026-03-13 20:29:13] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 20:29:14] [SIM] Scan complete in 15.4s — L: 96  S: 96
+[2026-03-13 20:29:16] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:29:16] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:29:16] [SIM] No qualifying setups found.
+[2026-03-13 20:29:22] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:29:26] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:27] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:29] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:29] [SIM] Scan complete in 7.5s — L: 96  S: 96
+[2026-03-13 20:29:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:29:31] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:29:31] [SIM] No qualifying setups found.
+[2026-03-13 20:29:37] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:29:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:49] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:54] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:29:55] [SIM] FT THROTTLE: SAHARAUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:00] [SIM] Scan complete in 22.5s — L: 96  S: 96
+[2026-03-13 20:30:01] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/95, Imbalance: 0.00)
+[2026-03-13 20:30:01] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:30:01] [SIM] No qualifying setups found.
+[2026-03-13 20:30:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:30:13] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:14] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:18] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:18] [SIM] Scan complete in 9.4s — L: 95  S: 95
+[2026-03-13 20:30:20] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/95, Imbalance: 0.00)
+[2026-03-13 20:30:20] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:30:20] [SIM] No qualifying setups found.
+[2026-03-13 20:30:27] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:30:34] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:38] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:39] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:40] [SIM] Scan complete in 12.8s — L: 95  S: 95
+[2026-03-13 20:30:41] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/95, Imbalance: 0.00)
+[2026-03-13 20:30:41] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:30:41] [SIM] No qualifying setups found.
+[2026-03-13 20:30:47] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:30:51] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:53] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:30:57] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:31:59] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:32:12] [SIM] ⚡ FAST-TRACK: TRUMPUSDT score 132! (λ=0.90)
+[2026-03-13 20:32:12] [SIM] VERIFY: TRUMPUSDT (SHORT) for 20s...
+[2026-03-13 20:32:23] [SIM]   Step 1/3: TRUMPUSDT score 132 (+0.00%)
+[2026-03-13 20:32:30] [SIM] Scan complete in 31.2s — L: 92  S: 92
+[2026-03-13 20:32:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/95, Imbalance: 0.00)
+[2026-03-13 20:32:31] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:32:31] [SIM] No qualifying setups found.
+[2026-03-13 20:32:31] [SIM] FAIL: TRUMPUSDT spread too high: 0.29%
+[2026-03-13 20:32:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:32:56] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.12, H_pen=28)
+[2026-03-13 20:32:56] [SIM] FT THROTTLE: DOTUSDT score 145 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:32:59] [SIM] FT THROTTLE: KITEUSDT score 148 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:33:03] [SIM] FT THROTTLE: BANANAS31USDT score 132 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 20:33:03] [SIM] ⚡ FAST-TRACK: PHAUSDT score 159! (λ=0.91)
+[2026-03-13 20:33:03] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:33:03] [SIM] Scan complete in 25.6s — L: 96  S: 96
+[2026-03-13 20:33:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +30 (Saturation: 23/95, Imbalance: 0.00)
+[2026-03-13 20:33:06] [SIM] ADAPTIVE FILTER: Effective min_score = 155 (Penalty: +30)
+[2026-03-13 20:33:06] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:33:06] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:33:12] [SIM]   Step 1/3: PHAUSDT score 149 (+0.00%)
+[2026-03-13 20:33:15] [SIM]   Step 1/3: PHAUSDT score 149 (+0.00%)
+[2026-03-13 20:33:20] [SIM] FAIL: PHAUSDT spread too high: 0.88%
+[2026-03-13 20:33:24] [SIM] FAIL: PHAUSDT spread too high: 0.37%
+[2026-03-13 20:33:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:33:39] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 160 (λ=0.12, H_pen=30)
+[2026-03-13 20:33:41] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 160 (λ=0.12, H_pen=30)
+[2026-03-13 20:33:46] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 160 (λ=0.11, H_pen=30)
+[2026-03-13 20:33:47] [SIM] Scan complete in 15.6s — L: 95  S: 95
+[2026-03-13 20:33:48] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/95, Imbalance: 0.00)
+[2026-03-13 20:33:48] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:33:48] [SIM] No qualifying setups found.
+[2026-03-13 20:33:55] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:33:58] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:34:00] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:34:01] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:34:01] [SIM] Scan complete in 5.7s — L: 95  S: 95
+[2026-03-13 20:34:02] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/95, Imbalance: 0.00)
+[2026-03-13 20:34:02] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:34:02] [SIM] No qualifying setups found.
+[2026-03-13 20:34:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:34:16] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:34:20] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:34:24] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:34:25] [SIM] Scan complete in 15.6s — L: 96  S: 96
+[2026-03-13 20:34:26] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:34:26] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:34:26] [SIM] No qualifying setups found.
+[2026-03-13 20:34:33] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:34:36] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:34:37] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:34:38] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:34:39] [SIM] Scan complete in 5.4s — L: 96  S: 96
+[2026-03-13 20:34:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:34:40] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:34:40] [SIM] No qualifying setups found.
+[2026-03-13 20:34:47] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:34:52] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:34:57] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:35:02] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:35:03] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 20:35:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:35:05] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:35:05] [SIM] No qualifying setups found.
+[2026-03-13 20:35:11] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:35:13] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:35:15] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:35:16] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:35:16] [SIM] Scan complete in 5.1s — L: 96  S: 96
+[2026-03-13 20:35:19] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:35:19] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:35:19] [SIM] No qualifying setups found.
+[2026-03-13 20:35:25] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:35:32] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:35:36] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:35:38] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:35:39] [SIM] Scan complete in 13.6s — L: 96  S: 96
+[2026-03-13 20:35:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:35:40] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:35:40] [SIM] No qualifying setups found.
+[2026-03-13 20:35:48] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:35:51] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:35:53] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:35:54] [SIM] Scan complete in 5.9s — L: 96  S: 96
+[2026-03-13 20:35:55] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:35:55] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:35:55] [SIM] No qualifying setups found.
+[2026-03-13 20:36:01] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:36:09] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:14] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:17] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:18] [SIM] Scan complete in 17.1s — L: 96  S: 96
+[2026-03-13 20:36:20] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:36:20] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:36:20] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:36:20] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:36:28] [SIM] FAIL: PHAUSDT spread too high: 0.29%
+[2026-03-13 20:36:36] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:36:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:54] [SIM] FT THROTTLE: SAHARAUSDT score 135 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:58] [SIM] FT THROTTLE: BANANAS31USDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:59] [SIM] FT THROTTLE: PHAUSDT score 137 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:36:59] [SIM] Scan complete in 23.4s — L: 96  S: 96
+[2026-03-13 20:37:00] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:37:01] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:37:01] [SIM] No qualifying setups found.
+[2026-03-13 20:37:08] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:37:16] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:37:17] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:37:19] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:37:19] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:37:20] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:37:21] [SIM] Scan complete in 12.8s — L: 96  S: 96
+[2026-03-13 20:37:22] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:37:22] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:37:22] [SIM] No qualifying setups found.
+[2026-03-13 20:37:28] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:37:34] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:37:38] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:37:45] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 163 (λ=0.89, H_pen=33)
+[2026-03-13 20:37:51] [SIM] Scan complete in 22.4s — L: 96  S: 96
+[2026-03-13 20:37:53] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:37:53] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:37:53] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:37:53] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:38:02] [SIM] FAIL: PHAUSDT spread too high: 0.29%
+[2026-03-13 20:38:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:38:17] [SIM] FT THROTTLE: TRUMPUSDT score 147 < dynamic FT threshold 161 (λ=0.13, H_pen=31)
+[2026-03-13 20:38:26] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 20:38:27] [SIM] Scan complete in 17.4s — L: 96  S: 96
+[2026-03-13 20:38:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:38:28] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:38:28] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:38:28] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:38:38] [SIM]   Step 1/3: PHAUSDT score 174 (+0.00%)
+[2026-03-13 20:38:46] [SIM]   Step 2/3: PHAUSDT score 174 (+0.00%)
+[2026-03-13 20:38:55] [SIM] FAIL: PHAUSDT spread too high: 0.40%
+[2026-03-13 20:39:01] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:39:07] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:39:11] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:39:16] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:39:17] [SIM] Scan complete in 15.8s — L: 96  S: 96
+[2026-03-13 20:39:19] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:39:19] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:39:19] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:39:19] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:39:28] [SIM]   Step 1/3: PHAUSDT score 159 (+0.00%)
+[2026-03-13 20:39:36] [SIM]   Step 2/3: PHAUSDT score 149 (+0.00%)
+[2026-03-13 20:39:44] [SIM]   Step 3/3: PHAUSDT score 149 (-0.09%)
+[2026-03-13 20:39:44] [SIM] VERIFIED: PHAUSDT score 149 — ready for SIM entry.
+[2026-03-13 20:39:45] [COOLDOWN] COOLDOWN: PHAUSDT — Readiness R=0.56 (Scalar: 0.45x)
+[2026-03-13 20:39:45] [SIM] PHAUSDT: LOW-LIQ MODE — 10x lev, 1.2% trail, $5.0 margin
+[2026-03-13 20:39:45] [SIM] PHAUSDT: Scaling margin $2.23 (Scalar: 0.45x)
+[2026-03-13 20:39:45] [SIM] ENTERED ▼ SHORT PHAUSDT @ 0.03491 (Score: 149)
+[2026-03-13 20:39:59] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:40:06] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:07] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:14] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:14] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:16] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 20:40:17] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:40:17] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:40:17] [SIM] No qualifying setups found.
+[2026-03-13 20:40:23] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:40:28] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:29] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:30] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:40:30] [SIM] Scan complete in 6.7s — L: 96  S: 96
+[2026-03-13 20:40:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:40:31] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:40:31] [SIM] No qualifying setups found.
+[2026-03-13 20:40:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:40:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:40:49] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:40:55] [SIM] FT THROTTLE: SAHARAUSDT score 146 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:40:59] [SIM] FT THROTTLE: PHAUSDT score 147 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:41:01] [SIM] Scan complete in 22.9s — L: 96  S: 96
+[2026-03-13 20:41:02] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:41:02] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:41:02] [SIM] No qualifying setups found.
+[2026-03-13 20:41:10] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:41:14] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:15] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:15] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:19] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:22] [SIM] Scan complete in 11.9s — L: 96  S: 96
+[2026-03-13 20:41:24] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:41:24] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:41:24] [SIM] No qualifying setups found.
+[2026-03-13 20:41:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:41:34] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:41:39] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:41:40] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:41:40] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:41:41] [SIM] Scan complete in 10.0s — L: 96  S: 96
+[2026-03-13 20:41:43] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:41:43] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:41:43] [SIM] No qualifying setups found.
+[2026-03-13 20:41:51] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:41:58] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:58] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:41:59] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:42:03] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:42:05] [SIM] Scan complete in 13.9s — L: 96  S: 96
+[2026-03-13 20:42:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:42:06] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:42:06] [SIM] No qualifying setups found.
+[2026-03-13 20:42:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:42:24] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:42:26] [SIM] FT THROTTLE: PTUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:42:28] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:42:28] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:42:30] [SIM] Scan complete in 14.5s — L: 96  S: 96
+[2026-03-13 20:42:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:42:31] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:42:31] [SIM] No qualifying setups found.
+[2026-03-13 20:42:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:42:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:42:45] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:43:03] [SIM] Scan complete in 25.7s — L: 78  S: 84
+[2026-03-13 20:43:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +22 (Saturation: 17/96, Imbalance: 0.04)
+[2026-03-13 20:43:05] [SIM] ADAPTIVE FILTER: Effective min_score = 147 (Penalty: +22)
+[2026-03-13 20:43:05] [SIM] No qualifying setups found.
+[2026-03-13 20:43:12] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:43:18] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 152 (λ=0.10, H_pen=22)
+[2026-03-13 20:43:23] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 152 (λ=0.10, H_pen=22)
+[2026-03-13 20:43:29] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 152 (λ=0.10, H_pen=22)
+[2026-03-13 20:43:30] [SIM] Scan complete in 18.1s — L: 96  S: 96
+[2026-03-13 20:43:30] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:43:30] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:43:30] [SIM] No qualifying setups found.
+[2026-03-13 20:43:39] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:43:44] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:43:46] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:43:46] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:43:46] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:43:48] [SIM] Scan complete in 9.0s — L: 96  S: 96
+[2026-03-13 20:43:50] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:43:50] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:43:50] [SIM] No qualifying setups found.
+[2026-03-13 20:43:57] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:44:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:10] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:10] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:12] [SIM] Scan complete in 15.2s — L: 96  S: 96
+[2026-03-13 20:44:14] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:44:14] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:44:14] [SIM] No qualifying setups found.
+[2026-03-13 20:44:20] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:44:25] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:44:26] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:44:27] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:44:28] [SIM] Scan complete in 7.6s — L: 96  S: 96
+[2026-03-13 20:44:30] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:44:30] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:44:30] [SIM] No qualifying setups found.
+[2026-03-13 20:44:37] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:44:45] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:48] [SIM] FT THROTTLE: UAIUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:54] [SIM] FT THROTTLE: SAHARAUSDT score 146 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:54] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:44:59] [SIM] Scan complete in 22.4s — L: 96  S: 96
+[2026-03-13 20:45:01] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:45:01] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:45:01] [SIM] No qualifying setups found.
+[2026-03-13 20:45:10] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:45:16] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:16] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:19] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:21] [SIM] Scan complete in 11.6s — L: 96  S: 96
+[2026-03-13 20:45:23] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:45:23] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:45:23] [SIM] No qualifying setups found.
+[2026-03-13 20:45:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:45:35] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:39] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:41] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:43] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:44] [SIM] Scan complete in 12.5s — L: 96  S: 96
+[2026-03-13 20:45:45] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:45:45] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:45:45] [SIM] No qualifying setups found.
+[2026-03-13 20:45:52] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:45:58] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:45:59] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:46:02] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:46:03] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:46:04] [SIM] Scan complete in 11.5s — L: 96  S: 96
+[2026-03-13 20:46:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:46:05] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:46:05] [SIM] No qualifying setups found.
+[2026-03-13 20:46:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:46:17] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:46:22] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:46:24] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:46:24] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:46:24] [SIM] Scan complete in 9.3s — L: 96  S: 96
+[2026-03-13 20:46:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:46:27] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:46:27] [SIM] No qualifying setups found.
+[2026-03-13 20:46:33] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:46:38] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:46:39] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:46:39] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:46:42] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:46:43] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:46:45] [SIM] Scan complete in 12.5s — L: 96  S: 96
+[2026-03-13 20:46:47] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:46:47] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:46:47] [SIM] No qualifying setups found.
+[2026-03-13 20:46:54] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:46:58] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:03] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:04] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:04] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:05] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:06] [SIM] Scan complete in 12.6s — L: 96  S: 96
+[2026-03-13 20:47:08] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:47:08] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:47:08] [SIM] No qualifying setups found.
+[2026-03-13 20:47:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:47:21] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:23] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:27] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:28] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:28] [SIM] FT THROTTLE: PHAUSDT score 151 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:28] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:29] [SIM] Scan complete in 14.2s — L: 96  S: 96
+[2026-03-13 20:47:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:47:31] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:47:31] [SIM] No qualifying setups found.
+[2026-03-13 20:47:37] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:47:40] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:48] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:49] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:49] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:56] [SIM] FT THROTTLE: PHAUSDT score 139 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:47:58] [SIM] Scan complete in 20.9s — L: 93  S: 89
+[2026-03-13 20:48:00] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.02)
+[2026-03-13 20:48:00] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:48:00] [SIM] No qualifying setups found.
+[2026-03-13 20:48:07] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:48:15] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:16] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:18] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:22] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:22] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:22] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:48:23] [SIM] Scan complete in 16.7s — L: 96  S: 96
+[2026-03-13 20:48:25] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:48:25] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:48:25] [SIM] No qualifying setups found.
+[2026-03-13 20:48:33] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:48:39] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:40] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:41] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:41] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:43] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:43] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:48:43] [SIM] Scan complete in 10.7s — L: 96  S: 96
+[2026-03-13 20:48:45] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:48:45] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:48:45] [SIM] No qualifying setups found.
+[2026-03-13 20:48:53] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:48:59] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:00] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:02] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:04] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:05] [SIM] FT THROTTLE: PHAUSDT score 141 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:06] [SIM] Scan complete in 12.9s — L: 96  S: 96
+[2026-03-13 20:49:07] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:49:07] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:49:07] [SIM] No qualifying setups found.
+[2026-03-13 20:49:14] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:49:17] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:21] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:22] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:23] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:49:25] [SIM] Scan complete in 10.8s — L: 96  S: 96
+[2026-03-13 20:49:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:49:27] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:49:27] [SIM] No qualifying setups found.
+[2026-03-13 20:49:35] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:49:41] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:49:41] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:49:42] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:49:45] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:49:46] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:49:46] [SIM] Scan complete in 10.8s — L: 96  S: 96
+[2026-03-13 20:49:48] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:49:48] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:49:48] [SIM] No qualifying setups found.
+[2026-03-13 20:49:55] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:49:59] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:03] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:05] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:05] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:06] [SIM] Scan complete in 11.2s — L: 96  S: 96
+[2026-03-13 20:50:08] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:50:08] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:50:08] [SIM] No qualifying setups found.
+[2026-03-13 20:50:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:50:20] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:20] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:21] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:25] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:26] [SIM] Scan complete in 11.0s — L: 96  S: 96
+[2026-03-13 20:50:28] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:50:28] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:50:28] [SIM] No qualifying setups found.
+[2026-03-13 20:50:36] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:50:40] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.28, H_pen=29)
+[2026-03-13 20:50:43] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.24, H_pen=29)
+[2026-03-13 20:50:45] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:50:46] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=1.00, H_pen=29)
+[2026-03-13 20:50:47] [SIM] Scan complete in 10.3s — L: 96  S: 96
+[2026-03-13 20:50:48] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:50:48] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:50:48] [SIM] No qualifying setups found.
+[2026-03-13 20:50:53] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:50:59] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.33, H_pen=28)
+[2026-03-13 20:51:00] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.32, H_pen=28)
+[2026-03-13 20:51:00] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.31, H_pen=28)
+[2026-03-13 20:51:04] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:51:04] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.25, H_pen=28)
+[2026-03-13 20:51:05] [SIM] Scan complete in 11.7s — L: 96  S: 96
+[2026-03-13 20:51:07] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:51:07] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:51:07] [SIM] No qualifying setups found.
+[2026-03-13 20:51:13] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:51:16] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.39, H_pen=31)
+[2026-03-13 20:51:20] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.29, H_pen=31)
+[2026-03-13 20:51:21] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:51:22] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:51:22] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 161 (λ=0.26, H_pen=31)
+[2026-03-13 20:51:22] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.26, H_pen=31)
+[2026-03-13 20:51:24] [SIM] Scan complete in 10.1s — L: 96  S: 96
+[2026-03-13 20:51:25] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:51:25] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:51:25] [SIM] No qualifying setups found.
+[2026-03-13 20:51:31] [EXIT] STOP HIT HIT: PHAUSDT Sell closed at 0.0352104
+[2026-03-13 20:51:32] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:51:37] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.33, H_pen=28)
+[2026-03-13 20:51:38] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.31, H_pen=28)
+[2026-03-13 20:51:38] [HISTORY] CLOSED PHAUSDT | Entry: 0.03491  Exit: 0.0352104 | PnL: -0.1919 USDT | Held: 11m 52s | Score: 149
+[2026-03-13 20:51:38] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.31, H_pen=28)
+[2026-03-13 20:51:41] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.24, H_pen=28)
+[2026-03-13 20:51:42] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:51:42] [SIM] ⚡ FAST-TRACK: PHAUSDT score 174! (λ=1.04)
+[2026-03-13 20:51:42] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:51:42] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:51:43] [SIM] Scan complete in 10.8s — L: 96  S: 96
+[2026-03-13 20:51:44] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:51:44] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:51:44] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:51:44] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:51:51] [SIM] FAIL: PHAUSDT spread too high: 0.28%
+[2026-03-13 20:51:54] [SIM]   Step 1/3: PHAUSDT score 174 (+0.00%)
+[2026-03-13 20:52:08] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:52:20] [SIM] ⚡ FAST-TRACK: TRUMPUSDT score 132! (λ=0.90)
+[2026-03-13 20:52:20] [SIM] VERIFY: TRUMPUSDT (SHORT) for 20s...
+[2026-03-13 20:52:31] [SIM]   Step 1/3: TRUMPUSDT score 132 (+0.00%)
+[2026-03-13 20:52:39] [SIM] Scan complete in 31.4s — L: 89  S: 89
+[2026-03-13 20:52:39] [SIM] FAIL: TRUMPUSDT spread too high: 0.29%
+[2026-03-13 20:52:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +23 (Saturation: 18/96, Imbalance: 0.00)
+[2026-03-13 20:52:40] [SIM] ADAPTIVE FILTER: Effective min_score = 148 (Penalty: +23)
+[2026-03-13 20:52:40] [SIM] No qualifying setups found.
+[2026-03-13 20:52:46] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:53:03] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 153 (λ=0.15, H_pen=23)
+[2026-03-13 20:53:05] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 153 (λ=0.14, H_pen=23)
+[2026-03-13 20:53:05] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 153 (λ=0.14, H_pen=23)
+[2026-03-13 20:53:10] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 153 (λ=0.12, H_pen=23)
+[2026-03-13 20:53:11] [SIM] ⚡ FAST-TRACK: PHAUSDT score 174! (λ=0.92)
+[2026-03-13 20:53:11] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:53:11] [SIM] Scan complete in 25.0s — L: 96  S: 96
+[2026-03-13 20:53:12] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:53:12] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:53:12] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:53:12] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:53:19] [SIM] FAIL: PHAUSDT spread too high: 0.31%
+[2026-03-13 20:53:19] [SIM] FAIL: PHAUSDT spread too high: 0.31%
+[2026-03-13 20:53:27] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:53:30] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.22, H_pen=29)
+[2026-03-13 20:53:32] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 159 (λ=0.20, H_pen=29)
+[2026-03-13 20:53:32] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:53:32] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.20, H_pen=29)
+[2026-03-13 20:53:32] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.19, H_pen=29)
+[2026-03-13 20:53:33] [SIM] Scan complete in 6.5s — L: 96  S: 96
+[2026-03-13 20:53:35] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 20:53:35] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 20:53:35] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:53:35] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 20:53:41] [EXIT] TAKE PROFIT HIT HIT: UAIUSDT Sell closed at 0.34946799999999995
+[2026-03-13 20:53:44] [SIM]   Step 1/3: PHAUSDT score 159 (+0.00%)
+[2026-03-13 20:53:50] [HISTORY] CLOSED UAIUSDT | Entry: 0.3566  Exit: 0.34946799999999995 | PnL: +15.6300 USDT | Held: 51m 15s | Score: 142
+[2026-03-13 20:53:53] [SIM]   Step 2/3: PHAUSDT score 159 (-0.08%)
+[2026-03-13 20:54:01] [SIM]   Step 3/3: PHAUSDT score 159 (-0.06%)
+[2026-03-13 20:54:01] [SIM] VERIFIED: PHAUSDT score 159 — ready for SIM entry.
+[2026-03-13 20:54:02] [COOLDOWN] COOLDOWN: PHAUSDT — Readiness R=0.55 (Scalar: 0.44x)
+[2026-03-13 20:54:02] [SIM] PHAUSDT: Scaling margin $19.66 (Scalar: 0.44x)
+[2026-03-13 20:54:02] [SIM] ENTERED ▼ SHORT PHAUSDT @ 0.03545 (Score: 159)
+[2026-03-13 20:54:07] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:54:15] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.11, H_pen=32)
+[2026-03-13 20:54:21] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 162 (λ=0.11, H_pen=32)
+[2026-03-13 20:54:22] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:54:23] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 20:54:23] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 162 (λ=0.11, H_pen=32)
+[2026-03-13 20:54:23] [SIM] Scan complete in 16.0s — L: 96  S: 96
+[2026-03-13 20:54:25] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:54:25] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:54:25] [SIM] No qualifying setups found.
+[2026-03-13 20:54:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:54:35] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:36] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:36] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:36] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:37] [SIM] FT THROTTLE: DEGOUSDT score 150 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:37] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 20:54:37] [SIM] Scan complete in 6.2s — L: 96  S: 96
+[2026-03-13 20:54:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:54:40] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:54:40] [SIM] No qualifying setups found.
+[2026-03-13 20:54:46] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:54:52] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:54:56] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:01] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:01] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:01] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:01] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:02] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:55:03] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 20:55:04] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:55:04] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:55:04] [SIM] No qualifying setups found.
+[2026-03-13 20:55:11] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:55:15] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:16] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:17] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:17] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:17] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:18] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.89, H_pen=29)
+[2026-03-13 20:55:18] [SIM] Scan complete in 6.7s — L: 96  S: 96
+[2026-03-13 20:55:20] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:55:20] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:55:20] [SIM] No qualifying setups found.
+[2026-03-13 20:55:26] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:55:33] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.27, H_pen=29)
+[2026-03-13 20:55:36] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 159 (λ=0.23, H_pen=29)
+[2026-03-13 20:55:38] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.20, H_pen=29)
+[2026-03-13 20:55:39] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:40] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.18, H_pen=29)
+[2026-03-13 20:55:40] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:55:41] [SIM] Scan complete in 15.4s — L: 96  S: 96
+[2026-03-13 20:55:44] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:55:44] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:55:44] [SIM] No qualifying setups found.
+[2026-03-13 20:55:50] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:55:53] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.35, H_pen=28)
+[2026-03-13 20:55:54] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:55:54] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:55:55] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.32, H_pen=28)
+[2026-03-13 20:55:55] [SIM] FT THROTTLE: DEGOUSDT score 145 < dynamic FT threshold 158 (λ=0.31, H_pen=28)
+[2026-03-13 20:55:56] [SIM] Scan complete in 5.7s — L: 96  S: 96
+[2026-03-13 20:55:57] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:55:57] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:55:57] [SIM] No qualifying setups found.
+[2026-03-13 20:56:05] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:56:11] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.31, H_pen=27)
+[2026-03-13 20:56:15] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 157 (λ=0.24, H_pen=27)
+[2026-03-13 20:56:17] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 157 (λ=0.21, H_pen=27)
+[2026-03-13 20:56:19] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:56:19] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 157 (λ=0.19, H_pen=27)
+[2026-03-13 20:56:19] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:56:21] [SIM] Scan complete in 16.2s — L: 96  S: 96
+[2026-03-13 20:56:23] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:56:23] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:56:23] [SIM] No qualifying setups found.
+[2026-03-13 20:56:30] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:56:35] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.29, H_pen=28)
+[2026-03-13 20:56:36] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:56:36] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.28, H_pen=28)
+[2026-03-13 20:56:37] [SIM] Scan complete in 6.8s — L: 96  S: 96
+[2026-03-13 20:56:39] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:56:39] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:56:39] [SIM] No qualifying setups found.
+[2026-03-13 20:56:45] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:56:53] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.29, H_pen=28)
+[2026-03-13 20:57:00] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:57:02] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.18, H_pen=28)
+[2026-03-13 20:57:02] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:57:04] [SIM] Scan complete in 18.2s — L: 96  S: 96
+[2026-03-13 20:57:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 20:57:06] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 20:57:06] [SIM] No qualifying setups found.
+[2026-03-13 20:57:13] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:57:20] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.25, H_pen=27)
+[2026-03-13 20:57:20] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:57:20] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 157 (λ=0.24, H_pen=27)
+[2026-03-13 20:57:21] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 20:57:22] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 157 (λ=0.22, H_pen=27)
+[2026-03-13 20:57:22] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 157 (λ=0.22, H_pen=27)
+[2026-03-13 20:57:23] [SIM] Scan complete in 9.9s — L: 96  S: 96
+[2026-03-13 20:57:26] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 20:57:26] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 20:57:26] [SIM] No qualifying setups found.
+[2026-03-13 20:57:34] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:57:43] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 20:57:47] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 20:57:57] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.90, H_pen=28)
+[2026-03-13 20:58:02] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:58:02] [SIM] FT THROTTLE: SAHARAUSDT score 151 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 20:58:04] [SIM] Scan complete in 30.2s — L: 80  S: 86
+[2026-03-13 20:58:06] [SIM] ENTROPY DEFLATOR: Raising min_score by +19 (Saturation: 15/96, Imbalance: 0.04)
+[2026-03-13 20:58:06] [SIM] ADAPTIVE FILTER: Effective min_score = 144 (Penalty: +19)
+[2026-03-13 20:58:06] [SIM] Picked 1 candidate(s).
+[2026-03-13 20:58:06] [SIM] VERIFY: SAHARAUSDT (LONG) for 20s...
+[2026-03-13 20:58:17] [SIM] FAIL: SAHARAUSDT score dropped: 151 -> 115
+[2026-03-13 20:58:24] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:58:30] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 149 (λ=0.13, H_pen=19)
+[2026-03-13 20:58:39] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 149 (λ=0.11, H_pen=19)
+[2026-03-13 20:58:44] [SIM] Scan complete in 19.6s — L: 96  S: 96
+[2026-03-13 20:58:45] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:58:45] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:58:45] [SIM] No qualifying setups found.
+[2026-03-13 20:58:53] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:58:57] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.28, H_pen=31)
+[2026-03-13 20:58:58] [SIM] FT THROTTLE: UAIUSDT score 130 < dynamic FT threshold 161 (λ=0.27, H_pen=31)
+[2026-03-13 20:58:58] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:58:58] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.27, H_pen=31)
+[2026-03-13 20:58:59] [SIM] Scan complete in 6.4s — L: 96  S: 96
+[2026-03-13 20:59:02] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 20:59:02] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 20:59:02] [SIM] No qualifying setups found.
+[2026-03-13 20:59:09] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:59:16] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.28, H_pen=29)
+[2026-03-13 20:59:23] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.18, H_pen=29)
+[2026-03-13 20:59:24] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 20:59:24] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.18, H_pen=29)
+[2026-03-13 20:59:25] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 20:59:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 20:59:27] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 20:59:27] [SIM] No qualifying setups found.
+[2026-03-13 20:59:34] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:59:38] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.12, H_pen=31)
+[2026-03-13 20:59:40] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 161 (λ=0.12, H_pen=31)
+[2026-03-13 20:59:41] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 20:59:42] [SIM] Scan complete in 7.8s — L: 96  S: 96
+[2026-03-13 20:59:44] [SIM] ENTROPY DEFLATOR: Raising min_score by +33 (Saturation: 26/96, Imbalance: 0.00)
+[2026-03-13 20:59:44] [SIM] ADAPTIVE FILTER: Effective min_score = 158 (Penalty: +33)
+[2026-03-13 20:59:44] [SIM] No qualifying setups found.
+[2026-03-13 20:59:51] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 20:59:57] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 163 (λ=0.26, H_pen=33)
+[2026-03-13 21:00:03] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 163 (λ=0.18, H_pen=33)
+[2026-03-13 21:00:05] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 163 (λ=0.10, H_pen=33)
+[2026-03-13 21:00:06] [SIM] FT THROTTLE: PHAUSDT score 159 < dynamic FT threshold 163 (λ=0.17, H_pen=33)
+[2026-03-13 21:00:06] [SIM] Scan complete in 15.8s — L: 96  S: 96
+[2026-03-13 21:00:08] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:00:08] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:00:08] [SIM] No qualifying setups found.
+[2026-03-13 21:00:16] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:00:21] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:00:22] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:00:23] [SIM] FT THROTTLE: SAHARAUSDT score 130 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:00:23] [SIM] FT THROTTLE: PHAUSDT score 149 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:00:24] [SIM] Scan complete in 7.9s — L: 96  S: 96
+[2026-03-13 21:00:25] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:00:25] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:00:25] [SIM] No qualifying setups found.
+[2026-03-13 21:00:32] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:00:39] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:00:43] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:00:45] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:00:49] [SIM] Scan complete in 17.1s — L: 96  S: 96
+[2026-03-13 21:00:51] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:00:51] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:00:51] [SIM] No qualifying setups found.
+[2026-03-13 21:00:58] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:01:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.29, H_pen=28)
+[2026-03-13 21:01:04] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:01:04] [SIM] FT THROTTLE: UAIUSDT score 145 < dynamic FT threshold 158 (λ=0.27, H_pen=28)
+[2026-03-13 21:01:04] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.26, H_pen=28)
+[2026-03-13 21:01:05] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 158 (λ=0.25, H_pen=28)
+[2026-03-13 21:01:06] [SIM] Scan complete in 7.6s — L: 96  S: 96
+[2026-03-13 21:01:07] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/96, Imbalance: 0.00)
+[2026-03-13 21:01:07] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 21:01:07] [SIM] No qualifying setups found.
+[2026-03-13 21:01:14] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:01:22] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.13, H_pen=27)
+[2026-03-13 21:01:26] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 157 (λ=0.12, H_pen=27)
+[2026-03-13 21:01:27] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 157 (λ=0.12, H_pen=27)
+[2026-03-13 21:01:31] [SIM] Scan complete in 16.5s — L: 96  S: 96
+[2026-03-13 21:01:33] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:01:33] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:01:33] [SIM] No qualifying setups found.
+[2026-03-13 21:01:40] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:01:45] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.28, H_pen=28)
+[2026-03-13 21:01:50] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.98, H_pen=28)
+[2026-03-13 21:01:52] [SIM] FT THROTTLE: UAIUSDT score 135 < dynamic FT threshold 158 (λ=0.82, H_pen=28)
+[2026-03-13 21:01:56] [SIM] Scan complete in 16.1s — L: 96  S: 96
+[2026-03-13 21:01:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:01:58] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:01:58] [SIM] No qualifying setups found.
+[2026-03-13 21:02:05] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:02:17] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.16, H_pen=28)
+[2026-03-13 21:02:23] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.13, H_pen=28)
+[2026-03-13 21:02:25] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.13, H_pen=28)
+[2026-03-13 21:02:25] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 158 (λ=0.13, H_pen=28)
+[2026-03-13 21:02:27] [SIM] Scan complete in 22.1s — L: 96  S: 96
+[2026-03-13 21:02:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:02:31] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:02:31] [SIM] No qualifying setups found.
+[2026-03-13 21:02:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:02:45] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:02:47] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:02:47] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:02:48] [SIM] FT THROTTLE: BANANAS31USDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:02:49] [SIM] Scan complete in 11.8s — L: 96  S: 96
+[2026-03-13 21:02:52] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:02:52] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:02:52] [SIM] No qualifying setups found.
+[2026-03-13 21:03:00] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:03:06] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.23, H_pen=28)
+[2026-03-13 21:03:15] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.16, H_pen=28)
+[2026-03-13 21:03:19] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:03:19] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.81, H_pen=28)
+[2026-03-13 21:03:20] [SIM] Scan complete in 20.6s — L: 96  S: 96
+[2026-03-13 21:03:22] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/95, Imbalance: 0.00)
+[2026-03-13 21:03:22] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:03:22] [SIM] No qualifying setups found.
+[2026-03-13 21:03:29] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:03:33] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.27, H_pen=28)
+[2026-03-13 21:03:35] [SIM] FT THROTTLE: MOODENGUSDT score 132 < dynamic FT threshold 158 (λ=0.25, H_pen=28)
+[2026-03-13 21:03:36] [SIM] FT THROTTLE: DEGOUSDT score 135 < dynamic FT threshold 158 (λ=0.23, H_pen=28)
+[2026-03-13 21:03:36] [SIM] FT THROTTLE: PHAUSDT score 157 < dynamic FT threshold 158 (λ=0.23, H_pen=28)
+[2026-03-13 21:03:40] [SIM] Scan complete in 10.9s — L: 95  S: 95
+[2026-03-13 21:03:43] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/95, Imbalance: 0.00)
+[2026-03-13 21:03:43] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:03:43] [SIM] No qualifying setups found.
+[2026-03-13 21:03:49] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:03:57] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.12, H_pen=28)
+[2026-03-13 21:04:02] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 21:04:08] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 21:04:10] [SIM] Scan complete in 20.1s — L: 95  S: 95
+[2026-03-13 21:04:11] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/95, Imbalance: 0.00)
+[2026-03-13 21:04:11] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 21:04:11] [SIM] No qualifying setups found.
+[2026-03-13 21:04:19] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:04:22] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.30, H_pen=27)
+[2026-03-13 21:04:23] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:04:24] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 157 (λ=0.27, H_pen=27)
+[2026-03-13 21:04:24] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 157 (λ=0.27, H_pen=27)
+[2026-03-13 21:04:25] [SIM] Scan complete in 6.5s — L: 95  S: 95
+[2026-03-13 21:04:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/95, Imbalance: 0.00)
+[2026-03-13 21:04:27] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 21:04:27] [SIM] No qualifying setups found.
+[2026-03-13 21:04:34] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:04:41] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 157 (λ=0.29, H_pen=27)
+[2026-03-13 21:04:46] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 157 (λ=0.21, H_pen=27)
+[2026-03-13 21:04:52] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:04:53] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 157 (λ=0.16, H_pen=27)
+[2026-03-13 21:04:56] [SIM] Scan complete in 22.1s — L: 95  S: 95
+[2026-03-13 21:04:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +30 (Saturation: 23/95, Imbalance: 0.00)
+[2026-03-13 21:04:58] [SIM] ADAPTIVE FILTER: Effective min_score = 155 (Penalty: +30)
+[2026-03-13 21:04:58] [SIM] No qualifying setups found.
+[2026-03-13 21:05:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:05:09] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 160 (λ=0.29, H_pen=30)
+[2026-03-13 21:05:12] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 160 (λ=0.24, H_pen=30)
+[2026-03-13 21:05:14] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 160 (λ=0.21, H_pen=30)
+[2026-03-13 21:05:14] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:05:17] [SIM] Scan complete in 13.0s — L: 95  S: 95
+[2026-03-13 21:05:19] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/95, Imbalance: 0.00)
+[2026-03-13 21:05:19] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 21:05:19] [SIM] No qualifying setups found.
+[2026-03-13 21:05:26] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:05:35] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.22, H_pen=27)
+[2026-03-13 21:05:38] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 157 (λ=0.18, H_pen=27)
+[2026-03-13 21:05:39] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 157 (λ=0.18, H_pen=27)
+[2026-03-13 21:05:40] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:05:41] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 157 (λ=0.17, H_pen=27)
+[2026-03-13 21:05:42] [SIM] Scan complete in 15.5s — L: 95  S: 95
+[2026-03-13 21:05:44] [SIM] ENTROPY DEFLATOR: Raising min_score by +30 (Saturation: 23/95, Imbalance: 0.00)
+[2026-03-13 21:05:44] [SIM] ADAPTIVE FILTER: Effective min_score = 155 (Penalty: +30)
+[2026-03-13 21:05:44] [SIM] No qualifying setups found.
+[2026-03-13 21:05:50] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:06:08] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:06:17] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:06:18] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:06:18] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:06:19] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 160 (λ=0.10, H_pen=30)
+[2026-03-13 21:06:25] [SIM] Scan complete in 34.8s — L: 95  S: 95
+[2026-03-13 21:06:27] [SIM] ENTROPY DEFLATOR: Raising min_score by +27 (Saturation: 21/95, Imbalance: 0.00)
+[2026-03-13 21:06:27] [SIM] ADAPTIVE FILTER: Effective min_score = 152 (Penalty: +27)
+[2026-03-13 21:06:27] [SIM] No qualifying setups found.
+[2026-03-13 21:06:34] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:06:42] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:06:45] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:06:46] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:06:47] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:06:47] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 157 (λ=0.10, H_pen=27)
+[2026-03-13 21:06:48] [SIM] Scan complete in 13.4s — L: 95  S: 95
+[2026-03-13 21:06:49] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/95, Imbalance: 0.00)
+[2026-03-13 21:06:49] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:06:49] [SIM] No qualifying setups found.
+[2026-03-13 21:06:56] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:07:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:03] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:03] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:03] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:03] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:04] [SIM] Scan complete in 8.5s — L: 95  S: 95
+[2026-03-13 21:07:07] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/95, Imbalance: 0.00)
+[2026-03-13 21:07:07] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:07:07] [SIM] No qualifying setups found.
+[2026-03-13 21:07:14] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:07:15] [EXIT] STOP HIT HIT: PHAUSDT Sell closed at 0.0356184
+[2026-03-13 21:07:21] [HISTORY] CLOSED PHAUSDT | Entry: 0.03545  Exit: 0.0356184 | PnL: -2.8018 USDT | Held: 13m 18s | Score: 159
+[2026-03-13 21:07:21] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:25] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:26] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:27] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:26] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:07:27] [SIM] Scan complete in 13.5s — L: 95  S: 95
+[2026-03-13 21:07:30] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:07:30] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:07:30] [SIM] Picked 1 candidate(s).
+[2026-03-13 21:07:30] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 21:07:40] [SIM]   Step 1/3: PHAUSDT score 156 (+0.00%)
+[2026-03-13 21:07:49] [SIM] FAIL: PHAUSDT spread too high: 0.31%
+[2026-03-13 21:07:49] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:08:03] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:08:07] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:08:08] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:08:09] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:08:09] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:08:10] [SIM] Scan complete in 20.8s — L: 96  S: 96
+[2026-03-13 21:08:12] [SIM] ENTROPY DEFLATOR: Raising min_score by +32 (Saturation: 25/96, Imbalance: 0.00)
+[2026-03-13 21:08:12] [SIM] ADAPTIVE FILTER: Effective min_score = 157 (Penalty: +32)
+[2026-03-13 21:08:12] [SIM] No qualifying setups found.
+[2026-03-13 21:08:17] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:08:20] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 21:08:26] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 21:08:27] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 21:08:27] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 21:08:27] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 162 (λ=0.10, H_pen=32)
+[2026-03-13 21:08:29] [SIM] Scan complete in 11.7s — L: 96  S: 96
+[2026-03-13 21:08:30] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:08:30] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:08:31] [SIM] Picked 1 candidate(s).
+[2026-03-13 21:08:31] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 21:08:40] [SIM]   Step 1/3: PHAUSDT score 156 (+0.00%)
+[2026-03-13 21:08:50] [SIM] FAIL: PHAUSDT spread too high: 0.50%
+[2026-03-13 21:08:55] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:09:02] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:09:11] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:09:13] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:09:14] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:09:14] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:09:15] [SIM] Scan complete in 20.2s — L: 96  S: 96
+[2026-03-13 21:09:17] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:09:17] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:09:17] [SIM] Picked 1 candidate(s).
+[2026-03-13 21:09:17] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 21:09:26] [SIM] FAIL: PHAUSDT spread too high: 0.36%
+[2026-03-13 21:09:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:09:37] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:44] [SIM] FT THROTTLE: KITEUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:47] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:49] [SIM] FT THROTTLE: SAHARAUSDT score 153 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:50] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:51] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:09:52] [SIM] Scan complete in 20.9s — L: 96  S: 96
+[2026-03-13 21:09:54] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:09:54] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:09:54] [SIM] Picked 2 candidate(s).
+[2026-03-13 21:09:54] [SIM] VERIFY: SAHARAUSDT (LONG) for 20s...
+[2026-03-13 21:10:05] [SIM] FAIL: SAHARAUSDT score dropped: 153 -> 127
+[2026-03-13 21:10:05] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 21:10:15] [SIM]   Step 1/3: PHAUSDT score 156 (+0.00%)
+[2026-03-13 21:10:24] [SIM]   Step 2/3: PHAUSDT score 166 (+0.00%)
+[2026-03-13 21:10:33] [SIM]   Step 3/3: PHAUSDT score 156 (+0.00%)
+[2026-03-13 21:10:33] [SIM] VERIFIED: PHAUSDT score 156 — ready for SIM entry.
+[2026-03-13 21:10:34] [COOLDOWN] COOLDOWN: PHAUSDT — Readiness R=0.55 (Scalar: 0.43x)
+[2026-03-13 21:10:34] [SIM] PHAUSDT: LOW-LIQ MODE — 10x lev, 1.2% trail, $5.0 margin
+[2026-03-13 21:10:34] [SIM] PHAUSDT: Scaling margin $2.17 (Scalar: 0.43x)
+[2026-03-13 21:10:34] [SIM] ENTERED ▼ SHORT PHAUSDT @ 0.0357 (Score: 156)
+[2026-03-13 21:10:44] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:10:52] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:10:57] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:00] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:00] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:01] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:03] [SIM] Scan complete in 18.3s — L: 96  S: 96
+[2026-03-13 21:11:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:11:05] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:11:05] [SIM] No qualifying setups found.
+[2026-03-13 21:11:12] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:11:14] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:11:15] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:11:16] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:11:16] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:11:16] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:11:17] [SIM] Scan complete in 5.0s — L: 96  S: 96
+[2026-03-13 21:11:18] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:11:18] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:11:18] [SIM] No qualifying setups found.
+[2026-03-13 21:11:25] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:11:30] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:36] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:39] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:39] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:39] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:40] [SIM] Scan complete in 15.0s — L: 96  S: 96
+[2026-03-13 21:11:42] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:11:42] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:11:42] [SIM] No qualifying setups found.
+[2026-03-13 21:11:53] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:11:55] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:55] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:56] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:56] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:57] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:11:58] [SIM] Scan complete in 4.4s — L: 96  S: 96
+[2026-03-13 21:12:01] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:12:01] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:12:01] [SIM] No qualifying setups found.
+[2026-03-13 21:12:07] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:12:14] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:19] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:22] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:22] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:22] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:23] [SIM] Scan complete in 16.4s — L: 96  S: 96
+[2026-03-13 21:12:24] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:12:24] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:12:24] [SIM] No qualifying setups found.
+[2026-03-13 21:12:31] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:12:35] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:36] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:37] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:37] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:37] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:12:37] [SIM] Scan complete in 6.7s — L: 96  S: 96
+[2026-03-13 21:12:39] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:12:39] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:12:39] [SIM] No qualifying setups found.
+[2026-03-13 21:12:46] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:12:52] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:12:58] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:13:00] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:13:01] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:13:02] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:13:04] [SIM] Scan complete in 17.4s — L: 96  S: 96
+[2026-03-13 21:13:05] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:13:05] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:13:05] [SIM] No qualifying setups found.
+[2026-03-13 21:13:12] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:13:19] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:13:19] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:13:20] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:13:21] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:13:22] [SIM] Scan complete in 10.1s — L: 96  S: 96
+[2026-03-13 21:13:23] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:13:23] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:13:23] [SIM] No qualifying setups found.
+[2026-03-13 21:13:30] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:13:36] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 158 (λ=0.29, H_pen=28)
+[2026-03-13 21:13:44] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.18, H_pen=28)
+[2026-03-13 21:13:51] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:13:51] [SIM] FT THROTTLE: PHAUSDT score 144 < dynamic FT threshold 158 (λ=0.14, H_pen=28)
+[2026-03-13 21:13:56] [SIM] Scan complete in 26.6s — L: 78  S: 78
+[2026-03-13 21:13:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +20 (Saturation: 16/96, Imbalance: 0.00)
+[2026-03-13 21:13:58] [SIM] ADAPTIVE FILTER: Effective min_score = 145 (Penalty: +20)
+[2026-03-13 21:13:58] [SIM] No qualifying setups found.
+[2026-03-13 21:14:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:14:10] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 150 (λ=0.11, H_pen=20)
+[2026-03-13 21:14:17] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 150 (λ=0.10, H_pen=20)
+[2026-03-13 21:14:18] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 150 (λ=0.10, H_pen=20)
+[2026-03-13 21:14:18] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 150 (λ=0.10, H_pen=20)
+[2026-03-13 21:14:19] [SIM] Scan complete in 14.6s — L: 96  S: 96
+[2026-03-13 21:14:20] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:14:20] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:14:20] [SIM] No qualifying setups found.
+[2026-03-13 21:14:27] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:14:31] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.32, H_pen=28)
+[2026-03-13 21:14:33] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.28, H_pen=28)
+[2026-03-13 21:14:34] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:14:35] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 158 (λ=0.25, H_pen=28)
+[2026-03-13 21:14:37] [SIM] Scan complete in 9.7s — L: 96  S: 96
+[2026-03-13 21:14:39] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:14:39] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:14:39] [SIM] No qualifying setups found.
+[2026-03-13 21:14:45] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:14:50] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.33, H_pen=28)
+[2026-03-13 21:14:51] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.30, H_pen=28)
+[2026-03-13 21:14:53] [SIM] FT THROTTLE: SAHARAUSDT score 153 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:14:54] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:14:56] [SIM] FT THROTTLE: DEGOUSDT score 142 < dynamic FT threshold 158 (λ=0.22, H_pen=28)
+[2026-03-13 21:14:56] [SIM] FT THROTTLE: PHAUSDT score 144 < dynamic FT threshold 158 (λ=0.22, H_pen=28)
+[2026-03-13 21:14:57] [SIM] Scan complete in 12.4s — L: 96  S: 96
+[2026-03-13 21:14:58] [SIM] ENTROPY DEFLATOR: Raising min_score by +28 (Saturation: 22/96, Imbalance: 0.00)
+[2026-03-13 21:14:58] [SIM] ADAPTIVE FILTER: Effective min_score = 153 (Penalty: +28)
+[2026-03-13 21:14:58] [SIM] Picked 1 candidate(s).
+[2026-03-13 21:14:58] [SIM] VERIFY: SAHARAUSDT (LONG) for 20s...
+[2026-03-13 21:15:08] [SIM] FAIL: SAHARAUSDT score dropped: 153 -> 122
+[2026-03-13 21:15:15] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:15:21] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 158 (λ=0.11, H_pen=28)
+[2026-03-13 21:15:28] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:15:29] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:15:29] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:15:29] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 158 (λ=0.10, H_pen=28)
+[2026-03-13 21:15:30] [SIM] Scan complete in 14.8s — L: 96  S: 96
+[2026-03-13 21:15:31] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:15:31] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:15:31] [SIM] No qualifying setups found.
+[2026-03-13 21:15:38] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:15:40] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:15:42] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:15:42] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:15:43] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:15:43] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:15:44] [SIM] Scan complete in 6.0s — L: 96  S: 96
+[2026-03-13 21:15:45] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:15:45] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:15:45] [SIM] No qualifying setups found.
+[2026-03-13 21:15:51] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:15:57] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:16:02] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:16:05] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:16:05] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:16:06] [SIM] Scan complete in 14.6s — L: 96  S: 96
+[2026-03-13 21:16:07] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:16:07] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:16:07] [SIM] No qualifying setups found.
+[2026-03-13 21:16:14] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:16:17] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.35, H_pen=29)
+[2026-03-13 21:16:19] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:16:19] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 21:16:20] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.29, H_pen=29)
+[2026-03-13 21:16:20] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 159 (λ=0.28, H_pen=29)
+[2026-03-13 21:16:21] [SIM] Scan complete in 6.5s — L: 96  S: 96
+[2026-03-13 21:16:23] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:16:23] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:16:23] [SIM] No qualifying setups found.
+[2026-03-13 21:16:29] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:16:36] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.31, H_pen=31)
+[2026-03-13 21:16:42] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.21, H_pen=31)
+[2026-03-13 21:16:43] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.20, H_pen=31)
+[2026-03-13 21:16:43] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:16:43] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 161 (λ=1.00, H_pen=31)
+[2026-03-13 21:16:43] [SIM] Scan complete in 14.1s — L: 96  S: 96
+[2026-03-13 21:16:46] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:16:46] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:16:46] [SIM] No qualifying setups found.
+[2026-03-13 21:16:52] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:16:55] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.38, H_pen=29)
+[2026-03-13 21:16:57] [SIM] FT THROTTLE: PTUSDT score 136 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:16:57] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.33, H_pen=29)
+[2026-03-13 21:16:58] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.31, H_pen=29)
+[2026-03-13 21:16:58] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 21:16:58] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 21:16:59] [SIM] Scan complete in 6.6s — L: 96  S: 96
+[2026-03-13 21:16:59] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:16:59] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:16:59] [SIM] No qualifying setups found.
+[2026-03-13 21:17:06] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:17:13] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 161 (λ=0.15, H_pen=31)
+[2026-03-13 21:17:14] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:17:16] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.13, H_pen=31)
+[2026-03-13 21:17:16] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.13, H_pen=31)
+[2026-03-13 21:17:16] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.13, H_pen=31)
+[2026-03-13 21:17:17] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 161 (λ=0.13, H_pen=31)
+[2026-03-13 21:17:17] [SIM] Scan complete in 10.9s — L: 96  S: 96
+[2026-03-13 21:17:19] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:17:19] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:17:19] [SIM] No qualifying setups found.
+[2026-03-13 21:17:26] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:17:28] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:17:30] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:17:30] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:17:31] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:17:31] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:17:32] [SIM] FT THROTTLE: MELANIAUSDT score 147 < dynamic FT threshold 159 (λ=0.11, H_pen=29)
+[2026-03-13 21:17:32] [SIM] Scan complete in 6.5s — L: 96  S: 96
+[2026-03-13 21:17:33] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:17:33] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:17:33] [SIM] No qualifying setups found.
+[2026-03-13 21:17:40] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:17:46] [SIM] FT THROTTLE: TRUMPUSDT score 152 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:17:51] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:17:54] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:17:54] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:17:55] [SIM] Scan complete in 14.7s — L: 96  S: 96
+[2026-03-13 21:17:57] [SIM] ENTROPY DEFLATOR: Raising min_score by +29 (Saturation: 23/96, Imbalance: 0.00)
+[2026-03-13 21:17:57] [SIM] ADAPTIVE FILTER: Effective min_score = 154 (Penalty: +29)
+[2026-03-13 21:17:57] [SIM] No qualifying setups found.
+[2026-03-13 21:18:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:18:06] [SIM] FT THROTTLE: TRUMPUSDT score 132 < dynamic FT threshold 159 (λ=0.35, H_pen=29)
+[2026-03-13 21:18:08] [SIM] FT THROTTLE: PTUSDT score 143 < dynamic FT threshold 159 (λ=0.10, H_pen=29)
+[2026-03-13 21:18:09] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 159 (λ=0.30, H_pen=29)
+[2026-03-13 21:18:09] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 159 (λ=0.28, H_pen=29)
+[2026-03-13 21:18:10] [SIM] FT THROTTLE: MELANIAUSDT score 147 < dynamic FT threshold 159 (λ=1.07, H_pen=29)
+[2026-03-13 21:18:10] [SIM] Scan complete in 6.6s — L: 96  S: 96
+[2026-03-13 21:18:13] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:18:13] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:18:13] [SIM] No qualifying setups found.
+[2026-03-13 21:18:19] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:18:33] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.20, H_pen=31)
+[2026-03-13 21:18:35] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.18, H_pen=31)
+[2026-03-13 21:18:37] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:18:38] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.16, H_pen=31)
+[2026-03-13 21:18:38] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 161 (λ=0.92, H_pen=31)
+[2026-03-13 21:18:39] [SIM] Scan complete in 19.1s — L: 96  S: 96
+[2026-03-13 21:18:40] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:18:40] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:18:40] [SIM] No qualifying setups found.
+[2026-03-13 21:18:47] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:18:49] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.40, H_pen=31)
+[2026-03-13 21:18:53] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:18:54] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.27, H_pen=31)
+[2026-03-13 21:18:54] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.27, H_pen=31)
+[2026-03-13 21:18:55] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 161 (λ=1.03, H_pen=31)
+[2026-03-13 21:18:55] [SIM] Scan complete in 8.9s — L: 96  S: 96
+[2026-03-13 21:18:57] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:18:57] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:18:57] [SIM] No qualifying setups found.
+[2026-03-13 21:19:04] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:19:11] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.29, H_pen=31)
+[2026-03-13 21:19:15] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.23, H_pen=31)
+[2026-03-13 21:19:20] [SIM] FT THROTTLE: MELANIAUSDT score 147 < dynamic FT threshold 161 (λ=0.18, H_pen=31)
+[2026-03-13 21:19:21] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.17, H_pen=31)
+[2026-03-13 21:19:21] [SIM] FT THROTTLE: PTUSDT score 138 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:19:21] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.17, H_pen=31)
+[2026-03-13 21:19:21] [SIM] Scan complete in 17.4s — L: 96  S: 96
+[2026-03-13 21:19:23] [SIM] ENTROPY DEFLATOR: Raising min_score by +31 (Saturation: 24/96, Imbalance: 0.00)
+[2026-03-13 21:19:23] [SIM] ADAPTIVE FILTER: Effective min_score = 156 (Penalty: +31)
+[2026-03-13 21:19:23] [SIM] No qualifying setups found.
+[2026-03-13 21:19:30] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 21:19:33] [SIM] FT THROTTLE: TRUMPUSDT score 142 < dynamic FT threshold 161 (λ=0.12, H_pen=31)
+[2026-03-13 21:19:35] [SIM] FT THROTTLE: PTUSDT score 131 < dynamic FT threshold 161 (λ=0.10, H_pen=31)
+[2026-03-13 21:19:36] [SIM] FT THROTTLE: DEGOUSDT score 132 < dynamic FT threshold 161 (λ=0.12, H_pen=31)
+[2026-03-13 21:19:36] [SIM] FT THROTTLE: PHAUSDT score 156 < dynamic FT threshold 161 (λ=0.12, H_pen=31)
+[2026-03-13 21:19:37] [SIM] FT THROTTLE: MOODENGUSDT score 140 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 21:19:37] [SIM] FT THROTTLE: MELANIAUSDT score 137 < dynamic FT threshold 161 (λ=0.11, H_pen=31)
+[2026-03-13 22:30:03] [SIM] Scanning LIVE market (4H)...
+[2026-03-13 22:30:15] [SKIP] FT BLOCK: TRUMPUSDT readiness R=0.52 < 0.70 threshold for Fast-Track re-entry
+[2026-03-13 22:30:23] [SKIP] FT BLOCK: UAIUSDT readiness R=0.68 < 0.70 threshold for Fast-Track re-entry
+[2026-03-13 22:30:24] [SIM] ⚡ FAST-TRACK: MOODENGUSDT score 132! (λ=1.92)
+[2026-03-13 22:30:24] [SIM] VERIFY: MOODENGUSDT (SHORT) for 20s...
+[2026-03-13 22:30:32] [SIM]   Step 1/3: MOODENGUSDT score 132 (+0.00%)
+[2026-03-13 22:30:34] [SIM] Scan complete in 30.5s — L: 88  S: 88
+[2026-03-13 22:30:35] [SIM] ENTROPY DEFLATOR: Raising min_score by +26 (Saturation: 20/95, Imbalance: 0.00)
+[2026-03-13 22:30:35] [SIM] ADAPTIVE FILTER: Effective min_score = 151 (Penalty: +26)
+[2026-03-13 22:30:36] [SIM] Picked 1 candidate(s).
+[2026-03-13 22:30:38] [SKIP] FT BLOCK: PHAUSDT readiness R=0.62 < 0.70 threshold for Fast-Track re-entry
+[2026-03-13 22:30:38] [SIM] ⚡ FAST-TRACK: MELANIAUSDT score 147! (λ=2.35)
+[2026-03-13 22:30:38] [SIM] VERIFY: PHAUSDT (SHORT) for 20s...
+[2026-03-13 22:30:38] [SIM] VERIFY: MELANIAUSDT (SHORT) for 20s...
+[2026-03-13 22:30:40] [SIM]   Step 2/3: MOODENGUSDT score 132 (+0.07%)
+[2026-03-13 22:30:52] [SIM]   Step 1/3: MELANIAUSDT score 137 (+0.00%)
+[2026-03-13 22:30:52] [SIM] FAIL: PHAUSDT spread too high: 0.68%
+[2026-03-13 22:30:54] [SIM]   Step 3/3: MOODENGUSDT score 120 (+0.26%)
+[2026-03-13 22:30:54] [SIM] VERIFIED: MOODENGUSDT score 120 — ready for SIM entry.

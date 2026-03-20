@@ -1,0 +1,71 @@
+
+Creating a new React app in /data/data/com.termux/files/home/fancybot/mini-app.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template-typescript...
+
+
+> core-js@3.49.0 postinstall
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.49.0 postinstall
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+added 1297 packages in 2m
+
+268 packages are looking for funding
+  run `npm fund` for details
+
+Installing template dependencies using npm...
+
+added 21 packages, removed 2 packages, and changed 1 package in 27s
+
+267 packages are looking for funding
+  run `npm fund` for details
+
+We detected TypeScript in your project (src/App.test.tsx) and created a tsconfig.json file for you.
+
+Your tsconfig.json has been populated with default values.
+
+Removing template package using npm...
+
+
+removed 1 package, and audited 1316 packages in 30s
+
+267 packages are looking for funding
+  run `npm fund` for details
+
+26 vulnerabilities (9 low, 3 moderate, 14 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Success! Created mini-app at /data/data/com.termux/files/home/fancybot/mini-app
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd mini-app
+  npm start
+
+Happy hacking!

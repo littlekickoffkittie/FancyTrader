@@ -1,0 +1,9 @@
+{"timestamp": "2026-03-13T18:56:21.789258", "symbol": "TRUMPUSDT", "direction": "SHORT", "price": 3.817, "qty": "261.9596541786743", "score": 152, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T18:56:54.152880", "symbol": "XAGUSDT", "direction": "LONG", "price": 80.73, "qty": "8.134522482348569", "score": 161, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T19:21:15.524758", "symbol": "TRUMPUSDT", "direction": "SHORT", "price": 3.859, "qty": "259.1085773516455", "score": 152, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T19:27:03.086008", "symbol": "TAOUSDT", "direction": "SHORT", "price": 238.82, "qty": "2.749769701030065", "score": 130, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T20:02:34.816440", "symbol": "UAIUSDT", "direction": "SHORT", "price": 0.3566, "qty": "2191.5311273135167", "score": 142, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T20:06:54.789909", "symbol": "PHAUSDT", "direction": "SHORT", "price": 0.03442, "qty": "14912.841371295757", "score": 159, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T20:39:45.879836", "symbol": "PHAUSDT", "direction": "SHORT", "price": 0.03491, "qty": "638.7854482956174", "score": 149, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T20:54:02.897458", "symbol": "PHAUSDT", "direction": "SHORT", "price": 0.03545, "qty": "16637.51763046544", "score": 159, "status": "simulated_entry"}
+{"timestamp": "2026-03-13T21:10:34.389767", "symbol": "PHAUSDT", "direction": "SHORT", "price": 0.0357, "qty": "607.8431372549019", "score": 156, "status": "simulated_entry"}
