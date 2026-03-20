@@ -21,6 +21,22 @@ def _user_id(update: Update) -> str:
 
 
 def start(update: Update, context: CallbackContext) -> None:
+    from supabase import create_client
+    import os
+    client = create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_SERVICE_KEY"])
+    uid = _user_id(update)
+    name = update.effective_user.first_name or "trader"
+
+    # Upsert user and get member number
+    client.table("users").upsert({
+        "id": uid,
+        "telegram_id": update.effective_user.id,
+        "tier": "free"
+    }).execute()
+
+    count = client.table("users").select("id", count="exact").execute()
+    member_number = count.count or 1
+
     keyboard = [
         [InlineKeyboardButton("Open Dashboard", web_app={"url": MINI_APP_URL})],
         [
@@ -34,7 +50,11 @@ def start(update: Update, context: CallbackContext) -> None:
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
     update.message.reply_text(
-        """FANCYBOT\nNon-custodial automated trading.\nYour keys. Your funds. Our edge.""",
+        f"Welcome to FancyTrader, {name}.\n\n"
+        f"You are member #{member_number}.\n\n"
+        f"The system is ready.\n"
+        f"Backtest is free — no API key needed.\n"
+        f"Upgrade to unlock the sim and live engines.",
         reply_markup=reply_markup
     )
 

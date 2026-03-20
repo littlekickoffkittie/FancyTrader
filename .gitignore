@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+*.log
+*.json
+!paper_account.json
+!bot_trades.json
+!sim_trade_results.json
+!backtest_results.json
+!score_history.json
+!sim_cooldowns.json
+!bot_trades.jsonl
